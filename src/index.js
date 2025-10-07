@@ -15,6 +15,7 @@ export default {
 
 		if (url.pathname.startsWith('/assets/')) {
 			const assetPath = url.pathname.replace(/^\/assets/, '');
+			const assetRequest = new Request(assetPath, request);
 			return env.ASSETS.fetch(assetRequest);
 		}
 
