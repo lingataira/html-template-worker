@@ -37,8 +37,7 @@ const anotherTemplate = () => `
   <section>
     <h2>Our Story</h2>
     <p>
-      We are a small team passionate about building fast, modern web experiences using Cloudflare Workers.
-      This is a sample About page to demonstrate multi-page support in a Worker.
+      AAAAAAAAAA
     </p>
 
     <h2>Our Mission</h2>

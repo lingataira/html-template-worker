@@ -65,7 +65,7 @@ const template = () => `
 </head>
 <body>
   <header>
-    <h1>Welcome to My Cloudflare Page</h1>
+    <h1>Welcome</h1>
   </header>
 
   <section>
