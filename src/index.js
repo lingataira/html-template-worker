@@ -8,7 +8,7 @@
  * Learn more at https://developers.cloudflare.com/workers/
  */
 import template from '../template';
-import anotherTemplate from '../anotherTemplate';
+import anotherTemplate from '../another-template';
 
 export default {
 	async fetch(request, env) {
