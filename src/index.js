@@ -7,9 +7,20 @@
  *
  * Learn more at https://developers.cloudflare.com/workers/
  */
+import template from "../template";
 
-export default {
-	async fetch(request, env, ctx) {
-		return new Response('Hello Aira!');
-	},
-};
+addEventListener('fetch', event => {
+	event.respondWith(handleRequest(event.request))
+})
+
+async function handleRequest(request) {
+	return new Response(template(), {
+		headers: { 'content-type': 'text/plain'}
+	})
+}
+
+// export default {
+// 	async fetch(request, env, ctx) {
+// 		return new Response('Hello Aira!');
+// 	},
+// };
