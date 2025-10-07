@@ -4,7 +4,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "broad-bonus-b6c5",
+	"name": "html-templates",
 	"main": "src/index.js",
 	"compatibility_date": "2025-10-04",
 	"observability": {
