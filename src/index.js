@@ -9,6 +9,7 @@
  */
 import template from '../template';
 import anotherTemplate from '../another-template';
+import supersleep from '../supersleep';
 
 export default {
 	async fetch(request, env) {
@@ -19,6 +20,12 @@ export default {
 			const assetUrl = new URL(assetPath, request.url);
 			const assetRequest = new Request(assetUrl, request);
 			return env.ASSETS.fetch(assetRequest);
+		}
+
+		if (url.pathname === '/supersleep') {
+			return new Response(supersleep(), {
+				headers: { 'content-type': 'text/html' },
+			});
 		}
 
 		if (url.pathname === '/another-template') {

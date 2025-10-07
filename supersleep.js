@@ -1,0 +1,2844 @@
+const template = () => `
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Super Sleep · REM Super Patch · The Super Patch Company</title>
+    <link rel="canonical" href="https://www.superpatch.com/wellness/sleep-better" />
+
+    <script type="text/javascript">
+        const urlParams = new URLSearchParams(window.location.search);
+        window.is_v2 = urlParams.get('utm_version') === 'v2';
+
+        (function (version) {
+            let head = document.head || document.getElementsByTagName('head')[0],
+                style = document.createElement('style');
+            style.type = 'text/css';
+            style.appendChild(document.createTextNode(version + " { display: none; }"));
+            head.appendChild(style);
+        })((window.is_v2 ? "#version-1" : "#version-2"));
+    </script>
+
+    <!-- Google Tag Manager -->
+    <script>(function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-WBLDZKMH');</script>
+    <!-- End Google Tag Manager -->
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="./css/owl.carousel.min.css">
+    <link rel="stylesheet" href="./css/owl.theme.default.min.css">
+    <link href="./css/styles.css" rel="stylesheet">
+</head>
+
+<body data-variant="43991132668094" data-product="8073276784830" data-max-quantity="10" data-id="SPREMPK28UB"
+    data-name="REM Super Patch - Pack of 28 Patches">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="
+        https://www.googletagmanager.com/ns.html?id=GTM-WBLDZKMH" height="0" width="0"
+            style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <section id="version-1">
+        <div class="container-xl">
+
+            <!-- header section -->
+            <div class="row">
+                <div class="header position-relative">
+                    <nav class="row navbar bg-body-tertiary">
+                        <div class="py-2 px-4">
+                            <a class="navbar-brand" href="https://www.superpatch.com/" target="_blank">
+                                <img src="./images/superpatch-logo.svg" alt="Superpatch Logo"
+                                    class="superpatch-logo img-fluid">
+                            </a>
+                        </div>
+                    </nav>
+                    <div class="row info-banner text-center">
+                        <p class="mb-0">
+                            Thank you for your interest in The Super Patch Company. For specific
+                            inquiries, please call&nbsp;
+                            <a href="tel:+18887858554" class="text-white">
+                                <i class="bi bi-telephone-outbound-fill"></i> (888) 785-8554
+                            </a>
+                        </p>
+                    </div>
+                    <div class="banner-text row px-3 px-lg-5">
+                        <div class="col-md-6 text-white">
+                            <span>REM Super Patch</span>
+                            <h1 class="fw-bolder display-3">Maximize Your Sleep Potential</h1>
+                            <p>100% drug-free, no melatonin, no CBD, just restful sleep.</p>
+                            <div class="row mt-3">
+                                <div class="col-md-12 mt-3 d-flex align-items-center">
+                                    <button type="button" class="btn btn-red" data-action="checkout" data-quantity="1">
+                                        Shop Now</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                        </div>
+                    </div>
+                    <div class="banner px-5"></div>
+                </div>
+            </div>
+
+            <!-- risk free section -->
+            <div class="risk-free-section row pt-5 pb-4">
+                <div class="col-12 text-center">
+                    <h2 class="fw-bolder">
+                        30 Days, Risk-Free. Money-Back Guarantee
+                    </h2>
+                    <p class="mt-4">
+                        Try any of our products and if you're not fully satisfied, contact us for a full refund.
+                    </p>
+                </div>
+            </div>
+
+            <!-- rem patch section -->
+            <div id="rem-purchase-div" class="rem-patch-section row px-lg-5 pb-3">
+                <div class="col-md-12 d-flex d-lg-none">
+                    <span class="fw-bolder display-3 mb-3">REM
+                        <span class="sleep-deeply fs-6">Sleep Deeply</span>
+                    </span>
+                </div>
+                <div class="col-12 col-lg-6 d-flex align-items-center">
+                    <img src="./images/rem-pdp.png" alt="Man Sleeping" class="img-fluid">
+                </div>
+                <div class="col-12 col-lg-6">
+                    <h2 class="fw-bolder display-2 d-none d-lg-block mb-0">REM</h2>
+                    <h3 class="fw-bold d-none d-lg-block mb-0">Sleep Deeply</h3>
+                    <div class="price-per-pack mt-2">
+                        <span class="price fs-2">$60.00 </span>
+                        <span class="pack fs-5">
+                            <span class="me-1">•</span>
+                            Pack of 28 patches
+                        </span>
+                    </div>
+                    <div class="review mt-2">
+                        <div class="row">
+                            <div class="col-md-12 d-flex align-items-center">
+                                <span class="count me-2">4.5</span>
+                                <span class="stars fs-5">
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                </span>
+                                <span class="total-reviews-count ms-3">1,367</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="add-to-cart mt-3">
+                        <div class="row">
+                            <div class="col-12 col-lg-6">
+                                <div class="quantity-input d-flex align-items-center">
+                                    <button
+                                        class="btn quantity-btn fw-bold minus-btn d-flex align-items-center justify-content-center">-</button>
+                                    <input type="number" class="form-control quantity fw-bold" value="1">
+                                    <button
+                                        class="btn quantity-btn fw-bold plus-btn align-items-center justify-content-center">+</button>
+                                </div>
+                            </div>
+                            <div class="col-12 col-lg-6 mt-3 mt-lg-0 d-flex align-items-center">
+                                <button type="button" class="btn btn-red w-100 add-to-cart-btn">ADD TO CART</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="rem-info mt-3">
+                        <p class="small">
+                            Healthy sleep plays a vital role in rejuvenating both the mind and body,
+                            contributing significantly to overall well-being. With the REM Super Patch™, achieving a
+                            balanced sleep cycle has never been more attainable. This non-invasive and drug-free
+                            technology offers a natural approach to supporting quality sleep, allowing the body to
+                            maintain optimal health more effortlessly. By promoting restorative sleep patterns, the
+                            REM Super Patch™ empowers individuals to awaken feeling refreshed and revitalized, ready to
+                            tackle their day.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- customers-review section -->
+            <div class="customers-review-section pt-3 pb-lg-5">
+                <div class="row">
+                    <div class="col-12 text-center">
+                        <h2 class="fw-bolder">What Our Customers Are Saying</h2>
+                    </div>
+                </div>
+                <div class="row mt-4">
+                    <div class="col-12">
+                        <div class="owl-carousel owl-theme reviews">
+                            <div class="item card-item p-3 light-gray-bg">
+                                <div class="row">
+                                    <div class="col-3 d-flex justify-content-center align-items-center">
+                                        <div class="name-initial">LK</div>
+                                    </div>
+                                    <div class="col-9 d-flex flex-column justify-content-center">
+                                        <h4 class="fs-6 mb-0">Lauren King</h4>
+                                        <span class="stars">
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="row mt-3">
+                                    <div class="col-12">
+                                        <p>Since using this patch, my sleep quality has drastically improved. I wake
+                                            up feeling rejuvenated and ready to tackle the day. Highly recommend for a
+                                            blissful night's rest!</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item card-item p-3 light-gray-bg">
+                                <div class="row">
+                                    <div class="col-3 d-flex justify-content-center align-items-center">
+                                        <div class="name-initial">AW</div>
+                                    </div>
+                                    <div class="col-9 d-flex flex-column justify-content-center">
+                                        <h4 class="fs-6 mb-0">Andrew Wright</h4>
+                                        <span class="stars">
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="row mt-3">
+                                    <div class="col-12">
+                                        <p>I'm genuinely impressed with this sleep patch. Falling asleep is easier,
+                                            and I wake up feeling like a new person - so energized and refreshed. It has
+                                            truly transformed my mornings.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item card-item p-3 light-gray-bg">
+                                <div class="row">
+                                    <div class="col-3 d-flex justify-content-center align-items-center">
+                                        <div class="name-initial">BG</div>
+                                    </div>
+                                    <div class="col-9 d-flex flex-column justify-content-center">
+                                        <h4 class="fs-6 mb-0">Brittany Green</h4>
+                                        <span class="stars">
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="row mt-3">
+                                    <div class="col-12">
+                                        <p>Incredible! This patch has revolutionized my sleep. No more tossing and
+                                            turning, just peaceful sleep and waking up full of energy. It's been a
+                                            game-changer for my daily life.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item card-item p-3 light-gray-bg">
+                                <div class="row">
+                                    <div class="col-3 d-flex justify-content-center align-items-center">
+                                        <div class="name-initial">KA</div>
+                                    </div>
+                                    <div class="col-9 d-flex flex-column justify-content-center">
+                                        <h4 class="fs-6 mb-0">Kevin Adams</h4>
+                                        <span class="stars">
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="row mt-3">
+                                    <div class="col-12">
+                                        <p>A must-have for anyone seeking better sleep! This patch not only helps me
+                                            fall asleep quickly but also ensures I wake up feeling fantastic and
+                                            energized. It's like experiencing the best sleep every night.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item card-item p-3 light-gray-bg">
+                                <div class="row">
+                                    <div class="col-3 d-flex justify-content-center align-items-center">
+                                        <div class="name-initial">EB</div>
+                                    </div>
+                                    <div class="col-9 d-flex flex-column justify-content-center">
+                                        <h4 class="fs-6 mb-0">Emily Baker</h4>
+                                        <span class="stars">
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="row mt-3">
+                                    <div class="col-12">
+                                        <p>Sleeping has never been so rejuvenating! This patch helps me wake up
+                                            feeling incredibly fresh and full of energy. It's a total transformation
+                                            from my previous restless nights.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item card-item p-3 light-gray-bg">
+                                <div class="row">
+                                    <div class="col-3 d-flex justify-content-center align-items-center">
+                                        <div class="name-initial">JG</div>
+                                    </div>
+                                    <div class="col-9 d-flex flex-column justify-content-center">
+                                        <h4 class="fs-6 mb-0">Joshua Gonzalez</h4>
+                                        <span class="stars">
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="row mt-3">
+                                    <div class="col-12">
+                                        <p>Finally, a product that lives up to its promise! The sleep patch delivers
+                                            amazing results – I sleep soundly and wake up with such vitality. It's
+                                            been a blessing for my sleep routine. Five stars without hesitation!</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item card-item p-3 light-gray-bg">
+                                <div class="row">
+                                    <div class="col-3 d-flex justify-content-center align-items-center">
+                                        <div class="name-initial">LN</div>
+                                    </div>
+                                    <div class="col-9 d-flex flex-column justify-content-center">
+                                        <h4 class="fs-6 mb-0">Lindsay Nelson</h4>
+                                        <span class="stars">
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="row mt-3">
+                                    <div class="col-12">
+                                        <p>I can't praise this sleep patch enough! It's not just about sleeping
+                                            well; it's about waking up energized and ready to go. This patch has made a
+                                            noticeable difference in my life.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item card-item p-3 light-gray-bg">
+                                <div class="row">
+                                    <div class="col-3 d-flex justify-content-center align-items-center">
+                                        <div class="name-initial">ZC</div>
+                                    </div>
+                                    <div class="col-9 d-flex flex-column justify-content-center">
+                                        <h4 class="fs-6 mb-0">Zachary Carter</h4>
+                                        <span class="stars">
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="row mt-3">
+                                    <div class="col-12">
+                                        <p>This patch has been my savior for restful nights and energetic mornings.
+                                            I wake up feeling like I've had the best sleep ever. It's a real
+                                            life-changer for anyone struggling with sleep quality!</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item card-item p-3 light-gray-bg">
+                                <div class="row">
+                                    <div class="col-3 d-flex justify-content-center align-items-center">
+                                        <div class="name-initial">HM</div>
+                                    </div>
+                                    <div class="col-9 d-flex flex-column justify-content-center">
+                                        <h4 class="fs-6 mb-0">Heather Mitchell</h4>
+                                        <span class="stars">
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="row mt-3">
+                                    <div class="col-12">
+                                        <p>A round of applause for this amazing sleep patch! Not only does it help
+                                            me sleep deeply, but I also wake up feeling so energized and refreshed.
+                                            It's like having a reset button for the best start every morning!</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- logos section -->
+            <div class="logos-section row pb-lg-5">
+                <div class="col-lg-3 col-6 my-4 my-lg-0 d-flex justify-content-center">
+                    <img src="./images/drug-free.png" alt="Drug Free" class="img-fluid">
+                </div>
+                <div class="col-lg-3 col-6 my-4 my-lg-0 d-flex justify-content-center">
+                    <img src="./images/clinical-trials.png" alt="Amazing Clinical Trial Results" class="img-fluid">
+                </div>
+                <div class="col-lg-3 col-6 my-4 my-lg-0 d-flex justify-content-center">
+                    <img src="./images/incredible-benefits.png" alt="Incredible Benefits" class="img-fluid">
+                </div>
+                <div class="col-lg-3 col-6 my-4 my-lg-0 d-flex justify-content-center">
+                    <img src="./images/made-in-usa.png" alt="Made In The USA" class="img-fluid">
+                </div>
+            </div>
+
+            <!-- jay glazer video section -->
+            <div class="jay-glazer-section">
+                <div class="jay-glazer-video-section">
+                    <div class="row text-white text-center">
+                        <div class="col-md-12">
+                            <div class="jay-glazer-video">
+                                <h2 class="fs-3">The REM Super Patch™</h2>
+                                <h2 class="display-4 fw-bolder">One Man's Journey</h2>
+                                <p class="fs-3">Jay Glazer</p>
+        
+                                <i class="display-1 bi bi-play-circle-fill" id="jayGlazerVideo"></i>
+                                <p class="mt-4">Press to Play Video</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="jay-glazer-info row text-center py-5 px-lg-5">
+                <div class="col-md-12">
+                    <p class="mb-0">Jay Glazer, television and film personality, well-known NFL insider on FOX's
+                        award-winning NFL Sunday, and mixed martial arts trainer/practitioner, talks about his life-long
+                        struggle with clinical sleep problems and chronic pain. For almost his entire life, restful
+                        sleep has been a challenge for Jay. It all changed for him when he started using REM Super
+                        Patch. Jay describes it as miraculous. He now enjoys deeper, longer sleep which has contributed
+                        to higher peak performance in training and daily living.
+                    </p>
+                </div>
+            </div>
+
+            <!-- discover section -->
+            <div class="discover-section row pb-5 px-lg-5">
+                <div class="col-12 text-lg-center">
+                    <h2 class="fw-bolder">
+                        Discover the Secret to Better Sleep with the REM Super Patch™ The World's Only
+                        Drug-Free Sleep Improvement Solution
+                    </h2>
+                    <p class="mt-4">
+                        Are you tired of restless nights, tossing and turning, and waking up groggy? Say
+                        goodbye to sleepless nights and hello to rejuvenating sleep with the REM Super Patch™. Our
+                        innovative, drug-free solution is designed to help you fall asleep faster, sleep longer,
+                        wake up less during the night, and feel refreshed and rejuvenated every morning.
+                    </p>
+                </div>
+            </div>
+
+            <!-- about rem section -->
+            <div class="about-rem-section pb-0">
+                <div class="good-sleep row">
+                    <div class="col-lg-6 col-md-12 light-gray-bg py-5 p-lg-5">
+                        <h3 class="fw-bolder fs-4">Why Good Sleep is Essential</h3>
+                        <img src="./images/why-good-sleep-is-essential.png" alt="Why Good Sleep Is Essential"
+                            class="img-fluid mt-4 d-flex d-lg-none">
+                        <h4 class="fw-bold fs-6 mt-4">Boosts Immunity</h4>
+                        <p>Boosts Immunity: Quality sleep strengthens your immune system, helping you fight off
+                            illnesses and stay healthy.</p>
+                        <h4 class="fw-bold fs-6 mt-4">Enhances Memory</h4>
+                        <p>Deep sleep is crucial for memory consolidation, ensuring you retain and recall
+                            information better.</p>
+                        <h4 class="fw-bold fs-6 mt-4">Improves Mood</h4>
+                        <p>Good sleep helps regulate mood, reducing irritability and enhancing your overall
+                            emotional well-being.</p>
+                        <h4 class="fw-bold fs-6 mt-4">Increases Productivity</h4>
+                        <p>Wake up feeling energized and ready to tackle the day, improving your focus and
+                            productivity.
+                        </p>
+                        <h4 class="fw-bold fs-6 mt-4">Supports Physical Health</h4>
+                        <p>Proper sleep aids in muscle repair, hormone regulation, and maintaining a healthy weight.
+                        </p>
+                        <div class="row mt-3 g-0">
+                            <div class="col-md-12 mt-3 d-flex align-items-center">
+                                <button type="button" class="btn btn-red" data-action="checkout" data-quantity="1">
+                                    Buy Now</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="woman-image col-lg-6 col-md-12 p-0 d-none d-lg-block">
+                    </div>
+                </div>
+                <div class="choose-rem-patch row">
+                    <div class="mother-daughter-image col-lg-6 col-md-12 p-0 d-none d-lg-block">
+                    </div>
+                    <div class="col-lg-6 col-md-12 py-5 p-lg-5">
+                        <h3 class="fw-bolder fs-4">Why Choose REM Super Patch™?</h3>
+                        <img src="./images/mother-daughter.png" alt="Mother Daughter"
+                            class="img-fluid mt-4 d-flex d-lg-none">
+                        <h4 class="fw-bold fs-6 mt-4">100% Drug-Free</h4>
+                        <p>No ingredients, no melatonin, no CBD. Just pure, natural sleep enhancement.</p>
+                        <h4 class="fw-bold fs-6 mt-4">No Side Effects</h4>
+                        <p>Safe to use with no risk of addiction or adverse effects.</p>
+                        <h4 class="fw-bold fs-6 mt-4">Easy To Use</h4>
+                        <p>Apply the patch before bed and experience the benefits of better sleep.</p>
+                        <h4 class="fw-bold fs-6 mt-4">Proven Results</h4>
+                        <p>Backed by scientific studies and trusted by over 100,000 happy customers.</p>
+                        <h4 class="fw-bold fs-6 mt-4">Preferred by Users</h4>
+                        <p>85% of users prefer the REM Patch over melatonin and other over-the-counter sleep aids.
+                        </p>
+                        <div class="row mt-3 g-0">
+                            <div class="col-md-12 mt-3 d-flex align-items-center">
+                                <button type="button" class="btn btn-red" data-action="checkout" data-quantity="1">
+                                    Buy Now</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="amazing-results row">
+                    <div class="col-lg-6 col-md-12 light-gray-bg py-5 p-lg-5">
+                        <h3 class="fw-bolder fs-4">Amazing Results with REM Super Patch™</h3>
+                        <img src="./images/amazing-results-with-rem-super-patch.png"
+                            alt="Amazing Results With REM Super Patch" class="img-fluid mt-4 d-flex d-lg-none">
+                        <h4 class="fw-bold fs-6 mt-4">Fall Asleep Faster</h4>
+                        <p>Spend less time tossing and turning and more time in restful slumber.</p>
+                        <h4 class="fw-bold fs-6 mt-4">Sleep Longer</h4>
+                        <p>Enjoy extended periods of uninterrupted sleep.</p>
+                        <h4 class="fw-bold fs-6 mt-4">Wake Up Less at Night</h4>
+                        <p>Experience fewer disruptions and enjoy deeper sleep cycles.</p>
+                        <h4 class="fw-bold fs-6 mt-4">Wake Up Refreshed</h4>
+                        <p>Start your day feeling rejuvenated, refreshed, and ready to take on the world.</p>
+                        <div class="row mt-3 g-0">
+                            <div class="col-md-12 mt-3 d-flex align-items-center">
+                                <button type="button" class="btn btn-red" data-action="checkout" data-quantity="1">
+                                    Buy Now</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="woman-image col-lg-6 col-md-12 p-0 d-none d-lg-block">
+                    </div>
+                </div>
+                <div class="affordable-effective row">
+                    <div class="family-image col-lg-6 col-md-12 p-0 d-none d-lg-block">
+                    </div>
+                    <div class="info-text col-lg-6 col-md-12">
+                        <h3 class="fw-bolder fs-4">Why Choose REM Super Patch™?</h3>
+                        <img src="./images/family.png" alt="Family" class="img-fluid mt-4 d-flex d-lg-none">
+                        <p class="mt-3 mt-lg-0">For close to $2 a day, you can transform your sleep quality and
+                            overall well-being. Don't miss out on the opportunity to experience the benefits
+                            of the REM Super Patch™. Join the ranks of our satisfied customers and start enjoying
+                            better sleep tonight!</p>
+                        <div class="row mt-3 g-0">
+                            <div class="col-md-12 mt-3 d-flex align-items-center">
+                                <button type="button" class="btn btn-red" data-action="checkout" data-quantity="1">
+                                    Buy Now</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- sleepless-nights section -->
+            <div class="sleepless-nights-section row py-5 p-lg-5">
+                <div class="text-white text-center">
+                    <div class="col-md-12">
+                        <h2 class="fw-bolder">Tired of sleepless nights? So are millions of others.</h2>
+                        <p class="mt-4">
+                            Incorporating REM Super Patch™ into your nightly routine can unlock a world of
+                            benefits. When we asked our users, here's what they experienced:
+                        </p>
+                    </div>
+
+                    <div class="row d-none d-md-flex justify-content-center">
+                        <div class="col-md-4 p-5">
+                            <div class="display-1 fw-bolder">
+                                85%
+                            </div>
+                            <p>Preferred our REM Super Patch over other sleep products.</p>
+                        </div>
+                        <div class="col-md-4 p-5">
+                            <div class="display-1 fw-bolder">
+                                81%
+                            </div>
+                            <p>Reported more restful sleep using our REM Super Patch</p>
+                        </div>
+                        <div class="col-md-4 p-5">
+                            <div class="display-1 fw-bolder">
+                                79%
+                            </div>
+                            <p>Woke up more refreshed using our REM Super Patch</p>
+                        </div>
+                    </div>
+                    <div class="row d-md-none">
+                        <div class="col-md-12">
+                            <div class="owl-carousel owl-theme rem-percentage">
+                                <div class="item pt-5 px-5">
+                                    <div class="percentage display-1 fw-bolder">
+                                        85%
+                                    </div>
+                                    <p>Preferred our REM Super Patch over other sleep products.</p>
+                                </div>
+                                <div class="item pt-5 px-5">
+                                    <div class="percentage display-1 fw-bolder">
+                                        81%
+                                    </div>
+                                    <p>Reported more restful sleep using our REM Super Patch</p>
+                                </div>
+                                <div class="item pt-5 px-5">
+                                    <div class="percentage display-1 fw-bolder">
+                                        79%
+                                    </div>
+                                    <p>Woke up more refreshed using our REM Super Patch</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 mt-3">
+                        <p class="small">Out of 855 participants in a recent survey</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- advisory board section -->
+            <div class="advisory-board-section py-5">
+                <div class="row">
+                    <div class="col-12 text-center">
+                        <h2 class="fw-bolder">Our Scientific Advisory Board</h2>
+                        <p class="mt-3">
+                            We are proud to be led by some of the most brilliant minds in medicine and natural
+                            science
+                        </p>
+                    </div>
+                </div>
+                <div class="row mt-2 mt-lg-4">
+                    <div class="col-12">
+                        <div class="owl-carousel owl-theme advisory-board">
+                            <div class="item card-item light-gray-bg">
+                                <img src="./images/anna-toker.png" alt="Dr. Anna Toker" class="img-fluid">
+                                <div class="row p-4">
+                                    <div class="col-md-12 text-center">
+                                        <h4 class="fs-5 fw-bolder">Dr. Anna Toker</h4>
+                                        </h5>
+                                    </div>
+                                    <div class="col-md-12">
+                                        <p>Dr. Anna Toker, a distinguished surgeon with over two decades of
+                                            experience, is a passionate advocate for overall wellness. Renowned for her
+                                            expertise in gut health and nutrition, Dr. Toker's commitment to patient
+                                            education has earned her a significant following on social media platforms.
+                                            Through her online educational programs and telehealth consultations, Dr.
+                                            Toker empowers individuals to prioritize digestive health and achieve
+                                            optimal well-being.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item card-item light-gray-bg">
+                                <img src="./images/alexander-schauss.png" alt="Alexander G. Schauss" class="img-fluid">
+                                <div class="row p-4">
+                                    <div class="col-md-12 text-center">
+                                        <h4 class="fs-5 fw-bolder">Alexander G. Schauss,</h4>
+                                        <h5 class="fs-6">The Super Patch Company<br>
+                                            PhD, CFS, FACN
+                                        </h5>
+                                    </div>
+                                    <div class="col-md-12">
+                                        <p>As the Founder and Senior Director of Research at AIBMR Life Sciences,
+                                            Inc., Dr. Alexander G. Schauss has revolutionized scientific and regulatory
+                                            consulting. With over 150 peer-reviewed papers and 23 books to his credit,
+                                            Dr. Schauss's contributions have impacted industries worldwide. His
+                                            dedication to advancing nutrition and botanical medicine has earned him
+                                            prestigious awards and recognition, solidifying his position as a leader in
+                                            the field.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item card-item light-gray-bg">
+                                <img src="./images/marc-boff.png" alt="Dr. Marc H Boff" class="img-fluid">
+                                <div class="row p-4">
+                                    <div class="col-md-12 text-center">
+                                        <h4 class="fs-5 fw-bolder">Dr. Marc H Boff</h4>
+                                        </h5>
+                                    </div>
+                                    <div class="col-md-12">
+                                        <p>Dr. Marc H Boff, with 20 NBA seasons under his belt, is a leading figure
+                                            in physical therapy and sports performance. As the former Director of
+                                            Sports Medicine for the Milwaukee Bucks and Head Athletic Trainer for the
+                                            Chicago Bulls, Dr. Boff's expertise spans elite sports and entertainment.
+                                            With a commitment to excellence, Dr. Boff leverages his vast experience to
+                                            provide cutting-edge services in orthopedic training, injury prevention, and
+                                            nutrition, ensuring optimal performance for his clients.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- rem patch section -->
+            <div class="rem-patch-section row px-lg-5 pb-3">
+                <div class="col-md-12 d-flex d-lg-none">
+                    <span class="fw-bolder display-3 mb-3">REM
+                        <span class="sleep-deeply fs-6">Sleep Deeply</span>
+                    </span>
+                </div>
+                <div class="col-12 col-lg-6">
+                    <img src="./images/rem-product.png" alt="REM Superpatch" class="rem-product img-fluid">
+                </div>
+                <div class="col-12 col-lg-6">
+                    <h2 class="fw-bolder display-2 d-none d-lg-block mb-0">REM</h2>
+                    <h3 class="fw-bold d-none d-lg-block mb-0">Sleep Deeply</h3>
+                    <div class="price-per-pack mt-2">
+                        <span class="price fs-2">$60.00 </span>
+                        <span class="pack fs-5">
+                            <span class="me-1">•</span>
+                            Pack of 28 patches
+                        </span>
+                    </div>
+                    <div class="review mt-2">
+                        <div class="row">
+                            <div class="col-md-12 d-flex align-items-center">
+                                <span class="count me-2">4.5</span>
+                                <span class="stars fs-5">
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                </span>
+                                <span class="total-reviews-count ms-3">1,367</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="add-to-cart mt-3">
+                        <div class="row">
+                            <div class="col-12 col-lg-6">
+                                <div class="quantity-input d-flex align-items-center">
+                                    <button
+                                        class="btn quantity-btn fw-bold minus-btn d-flex align-items-center justify-content-center">-</button>
+                                    <input type="number" class="form-control quantity fw-bold" value="1">
+                                    <button
+                                        class="btn quantity-btn fw-bold plus-btn align-items-center justify-content-center">+</button>
+                                </div>
+                            </div>
+                            <div class="col-12 col-lg-6 mt-3 mt-lg-0 d-flex align-items-center">
+                                <button type="button" class="btn btn-red w-100 add-to-cart-btn">ADD TO CART</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="rem-info mt-3">
+                        <p class="small">Healthy sleep plays a vital role in rejuvenating both the mind and body,
+                            contributing significantly to overall well-being. With the REM Super Patch™, achieving a
+                            balanced sleep cycle has never been more attainable. This non-invasive and drug-free
+                            technology offers a natural approach to supporting quality sleep, allowing the body to
+                            maintain optimal health more effortlessly. By promoting restorative sleep patterns, the
+                            REM Super Patch™ empowers individuals to awaken feeling refreshed and revitalized, ready to
+                            tackle their day.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- risk free section -->
+            <div class="risk-free-section row py-5">
+                <div class="col-12 text-center">
+                    <h2 class="fw-bolder">
+                        30 Days, Risk-Free. Money-Back Guarantee
+                    </h2>
+                    <p class="mt-4">
+                        Try any of our products and if you're not fully satisfied, contact us for a full refund.
+                    </p>
+                </div>
+            </div>
+
+            <!-- customers-review section -->
+            <div class="customers-review-section">
+                <div class="row">
+                    <div class="col-12 text-center">
+                        <h2 class="fw-bolder">What Our Customers Are Saying</h2>
+                    </div>
+                </div>
+                <div class="row mt-4">
+                    <div class="col-12">
+                        <div class="owl-carousel owl-theme reviews">
+                            <div class="item card-item p-3 light-gray-bg">
+                                <div class="row">
+                                    <div class="col-3 d-flex justify-content-center align-items-center">
+                                        <div class="name-initial">LK</div>
+                                    </div>
+                                    <div class="col-9 d-flex flex-column justify-content-center">
+                                        <h4 class="fs-6 mb-0">Lauren King</h4>
+                                        <span class="stars">
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="row mt-3">
+                                    <div class="col-12">
+                                        <p>Since using this patch, my sleep quality has drastically improved. I wake
+                                            up feeling rejuvenated and ready to tackle the day. Highly recommend for a
+                                            blissful night's rest!</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item card-item p-3 light-gray-bg">
+                                <div class="row">
+                                    <div class="col-3 d-flex justify-content-center align-items-center">
+                                        <div class="name-initial">AW</div>
+                                    </div>
+                                    <div class="col-9 d-flex flex-column justify-content-center">
+                                        <h4 class="fs-6 mb-0">Andrew Wright</h4>
+                                        <span class="stars">
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="row mt-3">
+                                    <div class="col-12">
+                                        <p>I'm genuinely impressed with this sleep patch. Falling asleep is easier,
+                                            and I wake up feeling like a new person - so energized and refreshed. It has
+                                            truly transformed my mornings.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item card-item p-3 light-gray-bg">
+                                <div class="row">
+                                    <div class="col-3 d-flex justify-content-center align-items-center">
+                                        <div class="name-initial">BG</div>
+                                    </div>
+                                    <div class="col-9 d-flex flex-column justify-content-center">
+                                        <h4 class="fs-6 mb-0">Brittany Green</h4>
+                                        <span class="stars">
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="row mt-3">
+                                    <div class="col-12">
+                                        <p>Incredible! This patch has revolutionized my sleep. No more tossing and
+                                            turning, just peaceful sleep and waking up full of energy. It's been a
+                                            game-changer for my daily life.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item card-item p-3 light-gray-bg">
+                                <div class="row">
+                                    <div class="col-3 d-flex justify-content-center align-items-center">
+                                        <div class="name-initial">KA</div>
+                                    </div>
+                                    <div class="col-9 d-flex flex-column justify-content-center">
+                                        <h4 class="fs-6 mb-0">Kevin Adams</h4>
+                                        <span class="stars">
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="row mt-3">
+                                    <div class="col-12">
+                                        <p>A must-have for anyone seeking better sleep! This patch not only helps me
+                                            fall asleep quickly but also ensures I wake up feeling fantastic and
+                                            energized. It's like experiencing the best sleep every night.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item card-item p-3 light-gray-bg">
+                                <div class="row">
+                                    <div class="col-3 d-flex justify-content-center align-items-center">
+                                        <div class="name-initial">EB</div>
+                                    </div>
+                                    <div class="col-9 d-flex flex-column justify-content-center">
+                                        <h4 class="fs-6 mb-0">Emily Baker</h4>
+                                        <span class="stars">
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="row mt-3">
+                                    <div class="col-12">
+                                        <p>Sleeping has never been so rejuvenating! This patch helps me wake up
+                                            feeling incredibly fresh and full of energy. It's a total transformation
+                                            from my previous restless nights.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item card-item p-3 light-gray-bg">
+                                <div class="row">
+                                    <div class="col-3 d-flex justify-content-center align-items-center">
+                                        <div class="name-initial">JG</div>
+                                    </div>
+                                    <div class="col-9 d-flex flex-column justify-content-center">
+                                        <h4 class="fs-6 mb-0">Joshua Gonzalez</h4>
+                                        <span class="stars">
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="row mt-3">
+                                    <div class="col-12">
+                                        <p>Finally, a product that lives up to its promise! The sleep patch delivers
+                                            amazing results – I sleep soundly and wake up with such vitality. It's
+                                            been a blessing for my sleep routine. Five stars without hesitation!</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item card-item p-3 light-gray-bg">
+                                <div class="row">
+                                    <div class="col-3 d-flex justify-content-center align-items-center">
+                                        <div class="name-initial">LN</div>
+                                    </div>
+                                    <div class="col-9 d-flex flex-column justify-content-center">
+                                        <h4 class="fs-6 mb-0">Lindsay Nelson</h4>
+                                        <span class="stars">
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="row mt-3">
+                                    <div class="col-12">
+                                        <p>I can't praise this sleep patch enough! It's not just about sleeping
+                                            well; it's about waking up energized and ready to go. This patch has made a
+                                            noticeable difference in my life.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item card-item p-3 light-gray-bg">
+                                <div class="row">
+                                    <div class="col-3 d-flex justify-content-center align-items-center">
+                                        <div class="name-initial">ZC</div>
+                                    </div>
+                                    <div class="col-9 d-flex flex-column justify-content-center">
+                                        <h4 class="fs-6 mb-0">Zachary Carter</h4>
+                                        <span class="stars">
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="row mt-3">
+                                    <div class="col-12">
+                                        <p>This patch has been my savior for restful nights and energetic mornings.
+                                            I wake up feeling like I've had the best sleep ever. It's a real
+                                            life-changer for anyone struggling with sleep quality!</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item card-item p-3 light-gray-bg">
+                                <div class="row">
+                                    <div class="col-3 d-flex justify-content-center align-items-center">
+                                        <div class="name-initial">HM</div>
+                                    </div>
+                                    <div class="col-9 d-flex flex-column justify-content-center">
+                                        <h4 class="fs-6 mb-0">Heather Mitchell</h4>
+                                        <span class="stars">
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="row mt-3">
+                                    <div class="col-12">
+                                        <p>A round of applause for this amazing sleep patch! Not only does it help
+                                            me sleep deeply, but I also wake up feeling so energized and refreshed.
+                                            It's like having a reset button for the best start every morning!</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- logos section -->
+            <div class="logos-section row py-lg-5">
+                <div class="col-lg-3 col-6 my-4 my-lg-0 d-flex justify-content-center">
+                    <img src="./images/drug-free.png" alt="Drug Free" class="img-fluid">
+                </div>
+                <div class="col-lg-3 col-6 my-4 my-lg-0 d-flex justify-content-center">
+                    <img src="./images/clinical-trials.png" alt="Amazing Clinical Trial Results" class="img-fluid">
+                </div>
+                <div class="col-lg-3 col-6 my-4 my-lg-0 d-flex justify-content-center">
+                    <img src="./images/incredible-benefits.png" alt="Incredible Benefits" class="img-fluid">
+                </div>
+                <div class="col-lg-3 col-6 my-4 my-lg-0 d-flex justify-content-center">
+                    <img src="./images/made-in-usa.png" alt="Made In The USA" class="img-fluid">
+                </div>
+            </div>
+
+            <!-- about rem section -->
+            <div class="about-rem-section">
+                <div class="better-sleep-health row">
+                    <div class="info-text light-gray-bg col-lg-6 col-md-12">
+                        <h3 class="fw-bolder fs-4">Better Sleep, Better Health</h3>
+                        <img src="./images/couple-mobile.jpg" alt="Couple" class="img-fluid mt-4 d-flex d-lg-none">
+                        <p class="mt-3 mt-lg-0">Everyone needs good sleep to stay healthy. Sleep helps our body
+                            repair itself, makes our immune system stronger, and helps us remember stuff. Not enough
+                            sleep can cause health issues like obesity and heart disease. We are here to help you sleep
+                            better because your health matters</p>
+                        <div class="row mt-3 g-0">
+                            <div class="col-md-12 mt-3 d-flex align-items-center">
+                                <button type="button" class="btn btn-red" data-action="checkout" data-quantity="1">
+                                    Buy Now</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="couple-image col-lg-6 col-md-12 p-0 d-none d-lg-block">
+                    </div>
+                </div>
+                <div class="transforming-sleep row">
+                    <div class="woman-vibrotactile-tech-image col-lg-6 col-md-12 p-0 d-none d-lg-block">
+                    </div>
+                    <div class="info-text light-gray-bg col-lg-6 col-md-12">
+                        <h3 class="fw-bolder fs-4">Transforming Sleep with Skin Signals</h3>
+                        <img src="./images/woman-vibrotactile-tech.png" alt="Woman Vibrotactile Technology"
+                            class="img-fluid mt-4 d-flex d-lg-none">
+                        <p class="mt-3 mt-lg-0">Introducing our vibrotactile technology. There's nothing else like
+                            it. This wearable tech sends signals from your skin to your brain. Is it possible? Yes! Your
+                            skin is an organ that communicates with your brain. It's the biggest organ in your body.
+                            Your skin always sends signals to your brain to keep you safe and healthy. For example, when
+                            you touch something hot, your brain tells you to pull away. Our super patch works like
+                            braille. When your skin reads it, it sends a signal to your brain, changing how your brain
+                            thinks about sleep.
+                        </p>
+                        <div class="row mt-3 g-0">
+                            <div class="col-md-12 mt-3 d-flex align-items-center">
+                                <button type="button" class="btn btn-red" data-action="checkout" data-quantity="1">
+                                    Buy Now</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- sleep-better section -->
+            <div class="sleep-better py-5 p-lg-5 text-center">
+                <div class="row">
+                    <div class="col-12">
+                        <h2 class="fw-bolder">Sleep Better Naturally</h2>
+                        <p class="mt-4">Our Super Patch technology is 100% natural and drug-free. It's been
+                            scientifically tested and designed to help you sleep better without any invasive methods.
+                            With over a million patches sold, it's clear that this is one of the best sleep solutions on
+                            the market.
+                        </p>
+                    </div>
+                </div>
+                <div class="row mt-3">
+                    <div class="col-md-12 mt-3 d-flex align-items-center justify-content-center">
+                        <button type="button" class="btn btn-red" data-action="checkout" data-quantity="1">
+                            Buy Now</button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- about rem section -->
+            <div class="about-rem-section pb-0">
+                <div class="transform-life row">
+                    <div class="family-image col-lg-6 col-md-12 p-0 d-none d-lg-block">
+                    </div>
+                    <div class="info-text light-gray-bg col-lg-6 col-md-12">
+                        <h3 class="fw-bolder fs-4">Transform Your Life</h3>
+                        <img src="./images/family-02.png" alt="Family" class="img-fluid mt-4 d-flex d-lg-none">
+                        <p class="mt-3 mt-lg-0">Imagine getting a great night's sleep and having amazing energy all
+                            day. Think about how much more you could enjoy life with your kids, grandkids, and spouse.
+                            For just close to $2 a day, you can try the REM Patch and change your life. If it doesn't
+                            work, you get your money back, no questions asked. You have nothing to lose and better sleep
+                            to gain.
+                        </p>
+                        <div class="row mt-3 g-0">
+                            <div class="col-md-12 mt-3 d-flex align-items-center">
+                                <button type="button" class="btn btn-red" data-action="checkout" data-quantity="1">
+                                    Buy Now</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="no-risk row">
+                    <div class="info-text col-lg-6 col-md-12">
+                        <h3 class="fw-bolder fs-4">Try the REM Super Patch™ No Risk, All Reward</h3>
+                        <img src="./images/teammates.png" alt="Teammates" class="img-fluid mt-4 d-flex d-lg-none">
+                        <p class="mt-3 mt-lg-0">Our "Super Patch Effect" is almost instant for most customers. Many
+                            experience better sleep the first night they use the REM Super Patch. We're so sure
+                            you'll love it that we offer a risk-free money-back guarantee. If it doesn't work for you,
+                            send back the remaining patches for a full refund, no questions asked. With over a million
+                            sold, we know it works.</p>
+                        <div class="row mt-3 g-0">
+                            <div class="col-md-12 mt-3 d-flex align-items-center">
+                                <button type="button" class="btn btn-red" data-action="checkout" data-quantity="1">
+                                    Buy Now</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="teammates-image col-lg-6 col-md-12 p-0 d-none d-lg-block">
+                    </div>
+                </div>
+            </div>
+
+            <!-- sleep-deeply-video section -->
+            <div class="sleep-deeply-video-section row text-white text-center">
+                <div class="col-md-12">
+                    <h2 class="display-1 fw-bolder">SLEEP DEEPLY</h2>
+                    <p class="fs-3">How it works</p>
+                </div>
+
+                <div class="sleep-deeply-video col-md-12">
+                    <i class="display-1 bi bi-play-circle-fill" id="sleepDeeplyVideo"></i>
+                    <p class="mt-4">Press to Play Video</p>
+                </div>
+            </div>
+
+            <!-- rem patch section -->
+            <div class="rem-patch-section row px-lg-5 pt-5 pb-3">
+                <div class="col-md-12 d-flex d-lg-none">
+                    <span class="fw-bolder display-3 mb-3">REM
+                        <span class="sleep-deeply fs-6">Sleep Deeply</span>
+                    </span>
+                </div>
+                <div class="col-12 col-lg-6">
+                    <img src="./images/rem-product.png" alt="REM Superpatch" class="rem-product img-fluid">
+                </div>
+                <div class="col-12 col-lg-6">
+                    <h2 class="fw-bolder display-2 d-none d-lg-block mb-0">REM</h2>
+                    <h3 class="fw-bold d-none d-lg-block mb-0">Sleep Deeply</h3>
+                    <div class="price-per-pack mt-2">
+                        <span class="price fs-2">$60.00 </span>
+                        <span class="pack fs-5">
+                            <span class="me-1">•</span>
+                            Pack of 28 patches
+                        </span>
+                    </div>
+                    <div class="review mt-2">
+                        <div class="row">
+                            <div class="col-md-12 d-flex align-items-center">
+                                <span class="count me-2">4.5</span>
+                                <span class="stars fs-5">
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                </span>
+                                <span class="total-reviews-count ms-3">1,367</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="add-to-cart mt-3">
+                        <div class="row">
+                            <div class="col-12 col-lg-6">
+                                <div class="quantity-input d-flex align-items-center">
+                                    <button
+                                        class="btn quantity-btn fw-bold minus-btn d-flex align-items-center justify-content-center">-</button>
+                                    <input type="number" class="form-control quantity fw-bold" value="1">
+                                    <button
+                                        class="btn quantity-btn fw-bold plus-btn align-items-center justify-content-center">+</button>
+                                </div>
+                            </div>
+                            <div class="col-12 col-lg-6 mt-3 mt-lg-0 d-flex align-items-center">
+                                <button type="button" class="btn btn-red w-100 add-to-cart-btn">ADD TO CART</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="rem-info mt-3">
+                        <p class="small">Healthy sleep plays a vital role in rejuvenating both the mind and body,
+                            contributing significantly to overall well-being. With the REM Super Patch™, achieving a
+                            balanced sleep cycle has never been more attainable. This non-invasive and drug-free
+                            technology offers a natural approach to supporting quality sleep, allowing the body to
+                            maintain optimal health more effortlessly. By promoting restorative sleep patterns, the
+                            REM Super Patch™ empowers individuals to awaken feeling refreshed and revitalized, ready to
+                            tackle their day.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- customers-review section -->
+            <div class="customers-review-section pt-4">
+                <div class="row">
+                    <div class="col-12 text-center">
+                        <h2 class="fw-bolder">What Our Customers Are Saying</h2>
+                    </div>
+                </div>
+                <div class="row mt-4">
+                    <div class="col-12">
+                        <div class="owl-carousel owl-theme reviews">
+                            <div class="item card-item p-3 light-gray-bg">
+                                <div class="row">
+                                    <div class="col-3 d-flex justify-content-center align-items-center">
+                                        <div class="name-initial">LK</div>
+                                    </div>
+                                    <div class="col-9 d-flex flex-column justify-content-center">
+                                        <h4 class="fs-6 mb-0">Lauren King</h4>
+                                        <span class="stars">
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="row mt-3">
+                                    <div class="col-12">
+                                        <p>Since using this patch, my sleep quality has drastically improved. I wake
+                                            up feeling rejuvenated and ready to tackle the day. Highly recommend for a
+                                            blissful night's rest!</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item card-item p-3 light-gray-bg">
+                                <div class="row">
+                                    <div class="col-3 d-flex justify-content-center align-items-center">
+                                        <div class="name-initial">AW</div>
+                                    </div>
+                                    <div class="col-9 d-flex flex-column justify-content-center">
+                                        <h4 class="fs-6 mb-0">Andrew Wright</h4>
+                                        <span class="stars">
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="row mt-3">
+                                    <div class="col-12">
+                                        <p>I'm genuinely impressed with this sleep patch. Falling asleep is easier,
+                                            and I wake up feeling like a new person - so energized and refreshed. It has
+                                            truly transformed my mornings.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item card-item p-3 light-gray-bg">
+                                <div class="row">
+                                    <div class="col-3 d-flex justify-content-center align-items-center">
+                                        <div class="name-initial">BG</div>
+                                    </div>
+                                    <div class="col-9 d-flex flex-column justify-content-center">
+                                        <h4 class="fs-6 mb-0">Brittany Green</h4>
+                                        <span class="stars">
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="row mt-3">
+                                    <div class="col-12">
+                                        <p>Incredible! This patch has revolutionized my sleep. No more tossing and
+                                            turning, just peaceful sleep and waking up full of energy. It's been a
+                                            game-changer for my daily life.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item card-item p-3 light-gray-bg">
+                                <div class="row">
+                                    <div class="col-3 d-flex justify-content-center align-items-center">
+                                        <div class="name-initial">KA</div>
+                                    </div>
+                                    <div class="col-9 d-flex flex-column justify-content-center">
+                                        <h4 class="fs-6 mb-0">Kevin Adams</h4>
+                                        <span class="stars">
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="row mt-3">
+                                    <div class="col-12">
+                                        <p>A must-have for anyone seeking better sleep! This patch not only helps me
+                                            fall asleep quickly but also ensures I wake up feeling fantastic and
+                                            energized. It's like experiencing the best sleep every night.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item card-item p-3 light-gray-bg">
+                                <div class="row">
+                                    <div class="col-3 d-flex justify-content-center align-items-center">
+                                        <div class="name-initial">EB</div>
+                                    </div>
+                                    <div class="col-9 d-flex flex-column justify-content-center">
+                                        <h4 class="fs-6 mb-0">Emily Baker</h4>
+                                        <span class="stars">
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="row mt-3">
+                                    <div class="col-12">
+                                        <p>Sleeping has never been so rejuvenating! This patch helps me wake up
+                                            feeling incredibly fresh and full of energy. It's a total transformation
+                                            from my previous restless nights.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item card-item p-3 light-gray-bg">
+                                <div class="row">
+                                    <div class="col-3 d-flex justify-content-center align-items-center">
+                                        <div class="name-initial">JG</div>
+                                    </div>
+                                    <div class="col-9 d-flex flex-column justify-content-center">
+                                        <h4 class="fs-6 mb-0">Joshua Gonzalez</h4>
+                                        <span class="stars">
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="row mt-3">
+                                    <div class="col-12">
+                                        <p>Finally, a product that lives up to its promise! The sleep patch delivers
+                                            amazing results – I sleep soundly and wake up with such vitality. It's
+                                            been a blessing for my sleep routine. Five stars without hesitation!</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item card-item p-3 light-gray-bg">
+                                <div class="row">
+                                    <div class="col-3 d-flex justify-content-center align-items-center">
+                                        <div class="name-initial">LN</div>
+                                    </div>
+                                    <div class="col-9 d-flex flex-column justify-content-center">
+                                        <h4 class="fs-6 mb-0">Lindsay Nelson</h4>
+                                        <span class="stars">
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="row mt-3">
+                                    <div class="col-12">
+                                        <p>I can't praise this sleep patch enough! It's not just about sleeping
+                                            well; it's about waking up energized and ready to go. This patch has made a
+                                            noticeable difference in my life.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item card-item p-3 light-gray-bg">
+                                <div class="row">
+                                    <div class="col-3 d-flex justify-content-center align-items-center">
+                                        <div class="name-initial">ZC</div>
+                                    </div>
+                                    <div class="col-9 d-flex flex-column justify-content-center">
+                                        <h4 class="fs-6 mb-0">Zachary Carter</h4>
+                                        <span class="stars">
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="row mt-3">
+                                    <div class="col-12">
+                                        <p>This patch has been my savior for restful nights and energetic mornings.
+                                            I wake up feeling like I've had the best sleep ever. It's a real
+                                            life-changer for anyone struggling with sleep quality!</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item card-item p-3 light-gray-bg">
+                                <div class="row">
+                                    <div class="col-3 d-flex justify-content-center align-items-center">
+                                        <div class="name-initial">HM</div>
+                                    </div>
+                                    <div class="col-9 d-flex flex-column justify-content-center">
+                                        <h4 class="fs-6 mb-0">Heather Mitchell</h4>
+                                        <span class="stars">
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="row mt-3">
+                                    <div class="col-12">
+                                        <p>A round of applause for this amazing sleep patch! Not only does it help
+                                            me sleep deeply, but I also wake up feeling so energized and refreshed.
+                                            It's like having a reset button for the best start every morning!</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- logos section -->
+            <div class="logos-section row pt-lg-5">
+                <div class="col-lg-3 col-6 my-4 my-lg-0 d-flex justify-content-center">
+                    <img src="./images/drug-free.png" alt="Drug Free" class="img-fluid">
+                </div>
+                <div class="col-lg-3 col-6 my-4 my-lg-0 d-flex justify-content-center">
+                    <img src="./images/clinical-trials.png" alt="Amazing Clinical Trial Results" class="img-fluid">
+                </div>
+                <div class="col-lg-3 col-6 my-4 my-lg-0 d-flex justify-content-center">
+                    <img src="./images/incredible-benefits.png" alt="Incredible Benefits" class="img-fluid">
+                </div>
+                <div class="col-lg-3 col-6 my-4 my-lg-0 d-flex justify-content-center">
+                    <img src="./images/made-in-usa.png" alt="Made In The USA" class="img-fluid">
+                </div>
+            </div>
+
+            <!-- power of REM section -->
+            <div class="power-of-rem-section row pb-5 p-lg-5">
+                <div class="col-12 text-lg-center">
+                    <h2 class="fw-bolder">The Power of REM Super Patch™</h2>
+                    <p class="mt-4">Are you tired of restless nights and groggy mornings? Well, you are not alone.
+                        Over 70 million Americans suffer from poor quality sleep. At last, the natural sleep solution
+                        you have been looking for has finally arrived! With a 95% approval rating, the scientifically
+                        tested and proven REM Super Patch is just a click-away from transforming your sleep experience
+                        and the quality of your life! As the world's only drug-free sleep improvement patch, our
+                        innovative sleep product is designed to help you fall asleep faster, sleep longer, wake up less
+                        during the night, and greet each day feeling refreshed and rejuvenated.</p>
+                </div>
+            </div>
+
+            <!-- wear tech section -->
+            <div class="wear-tech-section row py-5">
+                <div class="col-lg-7 offset-lg-4 text-center">
+                    <h2 class="text-white mb-0 mb-md-5 fw-bolder">How to Wear the Tech</h2>
+                    <div class="row d-none d-md-flex">
+                        <div class="col-md-4 mb-3">
+                            <div class="how-it-works">
+                                <div class="row align-items-center">
+                                    <img src="./images/how-it-works-open-2.webp" alt="Superpatch" class="img-fluid">
+                                    <p class="mt-3">Open your Super Patch Pack and take out one patch.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 mb-3">
+                            <div class="how-it-works">
+                                <div class="row align-items-center">
+                                    <img src="./images/how-it-works-peel-2.webp" alt="Superpatch" class="img-fluid">
+                                    <p class="mt-3">Carefully peel off the patch from its protective sheet.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 mb-3">
+                            <div class="how-it-works">
+                                <div class="row align-items-center">
+                                    <img src="./images/how-it-works-stick-2.webp" alt="Superpatch" class="img-fluid">
+                                    <p class="mt-3">Stick it on your forearm and start enjoying the benefits
+                                        instantly!</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="d-md-none">
+                        <div class="owl-carousel owl-theme wear-tech">
+                            <div class="item pt-5 px-5">
+                                <div class="how-it-works">
+                                    <div class="row align-items-center">
+                                        <img src="./images/how-it-works-open-2.webp" alt="Superpatch" class="img-fluid">
+                                        <p class="mt-3">Open your Super Patch Pack and take out one patch.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item pt-5 px-5">
+                                <div class="how-it-works">
+                                    <div class="row align-items-center">
+                                        <img src="./images/how-it-works-peel-2.webp" alt="Superpatch" class="img-fluid">
+                                        <p class="mt-3">Carefully peel off the patch from its protective sheet.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item pt-5 px-5">
+                                <div class="how-it-works">
+                                    <div class="row align-items-center">
+                                        <img src="./images/how-it-works-stick-2.webp" alt="Superpatch"
+                                            class="img-fluid">
+                                        <p class="mt-3">Stick it on your forearm and start enjoying the benefits
+                                            instantly!</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- faq section -->
+            <div class="faq-section">
+                <div class="light-gray-bg row py-5 p-lg-5">
+                    <div class="col-12 text-center">
+                        <h2 class="fw-bolder">Frequently Asked Questions</h2>
+                    </div>
+                    <div class="col-md-12 mt-5 px-lg-5">
+                        <div class="accordion" id="faqAccordion">
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                        Where should I place the patch?
+                                    </button>
+                                </h2>
+                                <div id="collapseOne" class="accordion-collapse collapse"
+                                    data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        Firmly apply the patch to clean, dry, unbroken skin anywhere on your body.
+                                        You can change the location of the patch daily. Our patches are made from
+                                        medical 3M material. They are hypoallergenic, water-resistant, and made in
+                                        America. There are no drugs, chemicals, or extracts in or on our patches.
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                        How long do I wear the patch for?
+                                    </button>
+                                </h2>
+                                <div id="collapseTwo" class="accordion-collapse collapse"
+                                    data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        Super Patches can be worn for 24 hours or a shorter period. Our patches are
+                                        made from medical 3M material. They are hypoallergenic, water-resistant, and
+                                        made in America. There are no drugs, chemicals, or extracts in or on our
+                                        patches. The REM Patch should be applied when getting ready to sleep and removed
+                                        after waking up for the day.
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapseThree" aria-expanded="false"
+                                        aria-controls="collapseThree">
+                                        Are there any expected side effects?
+                                    </button>
+                                </h2>
+                                <div id="collapseThree" class="accordion-collapse collapse"
+                                    data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        Our patches are made from medical 3M material. They are hypoallergenic,
+                                        water-resistant, and made in America. There are no drugs, chemicals, or
+                                        extracts in or on our skin irritation, remove the patch and discontinue use.
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapseFour" aria-expanded="false"
+                                        aria-controls="collapseFour">
+                                        What is the size of the patch?
+                                    </button>
+                                </h2>
+                                <div id="collapseFour" class="accordion-collapse collapse"
+                                    data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        Super Patches are 2 inches by 2 inches in size.
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapseFive" aria-expanded="false"
+                                        aria-controls="collapseFive">
+                                        Can I wear more than one type of patch at the same time?
+                                    </button>
+                                </h2>
+                                <div id="collapseFive" class="accordion-collapse collapse"
+                                    data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        Yes, more than one patch can be worn at a time. The different patches do not
+                                        interfere with the efficacy of any other patch. It has been observed that
+                                        the Liberty patch may help the efficiency of the other patches. Wearing more
+                                        than one of the same patches will not increase the patch's effectiveness.
+                                        However, multiple Freedom Patches can be worn in situations where the user is
+                                        experiencing discomfort in different parts of the body.
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- footer section -->
+            <div class="footer-section row light-gray-bg px-3 py-5">
+                <div class="col-lg-6 mb-3 mb-lg-0">
+                    <div class="d-flex justify-content-center justify-content-lg-start">
+                        <div class="text-center p-2 flex-shrink-1">
+                            <a href="https://www.superpatch.com/" target="_blank">
+                                <img src="./images/superpatch-logo.svg" alt="Superpatch Logo"
+                                    class="superpatch-logo img-fluid">
+                            </a>
+                            <div class="pt-4">
+                                <a href="https://www.facebook.com/SuperPatchCompany/"><i
+                                        class="bi bi-facebook fs-5 me-2"></i></a>
+                                <a href="https://www.youtube.com/channel/UC-LxkElDEL7EtVSF4PqloPA"><i
+                                        class="bi bi-youtube fs-5 me-2"></i></a>
+                                <a href="https://www.instagram.com/superpatchco/"><i
+                                        class="bi bi-instagram fs-5"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 d-flex justify-content-center justify-content-lg-end mt-4">
+                    <nav>
+                        <ul class="list-unstyled row text-center mb-0 row-cols-1 row-cols-md-auto">
+                            <li class="col mb-3 mb-md-0">
+                                <a href="mailto:help@superpatch.com" class="d-block">Contact</a>
+                            </li>
+                            <li class="col mb-3 mb-md-0">
+                                <a href="#" class="d-block" data-bs-toggle="modal" data-bs-target="#privacyPolicyModal">
+                                    Privacy Policy & Disclaimer
+                                </a>
+                            </li>
+                            <li class="col mb-3 mb-md-0">
+                                <a href="#" class="d-block" data-bs-toggle="modal" data-bs-target="#returnsPolicyModal">
+                                    Refunds Policy
+                                </a>
+                            </li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="version-2">
+
+        <!-- header section -->
+        <div class="container-fluid">
+            <div class="row">
+                <div class="header position-relative">
+                    <nav class="row navbar bg-body-tertiary py-1">
+                        <div class="col-lg-10 offset-lg-1 col-xl-8 offset-xl-2 py-2 text-center text-md-start">
+                            <a class="navbar-brand" href="https://www.superpatch.com/" target="_blank">
+                                <img src="./images/superpatch-logo.svg" alt="Superpatch Logo"
+                                    class="superpatch-logo img-fluid">
+                            </a>
+                        </div>
+                    </nav>
+                    <div class="row info-banner text-center">
+                        <div class="col-lg-10 offset-lg-1 col-xl-8 offset-xl-2">
+                            <p class="mb-0">
+                                Thank you for your interest in The Super Patch Company. For specific
+                                inquiries, please call&nbsp;
+                                <a href="tel:+18887858554" class="text-white">
+                                    <i class="bi bi-telephone-outbound-fill"></i> (888) 785-8554
+                                </a>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="row banner-text text-white">
+                        <div class="col-lg-10 offset-lg-1 col-xl-8 offset-xl-2">
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <span>REM Super Patch</span>
+                                    <h1 class="fw-bolder display-3">Sleep More Deeply</h1>
+                                    <p>100% drug-free, no melatonin, no CBD, just restful sleep.</p>
+                                    <div class="row mt-3">
+                                        <div
+                                            class="col-md-12 mt-3 d-flex align-items-center justify-content-center justify-content-md-start">
+                                            <a href="#remShopSection" type="button" class="btn btn-red">Shop Now</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6 col-lg-4">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="banner"></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- logos section -->
+        <div class="container-fluid">
+            <div class="row logos-section py-4 g-0">
+                <div class="col-lg-10 offset-lg-1 col-xl-8 offset-xl-2">
+                    <div class="row">
+                        <div
+                            class="col-lg-3 col-6 my-4 d-flex align-items-center justify-content-center justify-content-lg-start">
+                            <img src="./images/drug-free-bnw.jpg" alt="Drug Free" class="img-fluid px-0">
+                        </div>
+                        <div
+                            class="col-lg-3 col-6 my-4 d-flex align-items-center justify-content-center justify-content-lg-start">
+                            <img src="./images/fall-asleep-faster.jpg" alt="Fall Asleep Faster" class="img-fluid px-0">
+                        </div>
+                        <div
+                            class="col-lg-3 col-6 my-4 d-flex align-items-center justify-content-center justify-content-lg-start">
+                            <img src="./images/wake-up-less-at-night.jpg" alt="Wake Up Less At Night"
+                                class="img-fluid px-0">
+                        </div>
+                        <div
+                            class="col-lg-3 col-6 my-4 d-flex align-items-center justify-content-center justify-content-lg-start">
+                            <img src="./images/wake-up-refreshed.jpg" alt="Wake Up Refreshed" class="img-fluid px-0">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- risk free section -->
+        <div class="container-fluid">
+            <div class="row risk-free-section pt-2 pt-lg-0 pb-5">
+                <div class="col-lg-10 offset-lg-1 col-xl-8 offset-xl-2 text-lg-center">
+                    <h2 class="fw-bolder">
+                        30 Days, Risk-Free. Money-Back Guarantee
+                    </h2>
+                    <p class="mt-4 mb-0">
+                        Try any of our products and if you're not fully satisfied, contact us for a full refund.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <!-- discover section -->
+        <div class="container-fluid">
+            <div class="row discover-section pb-5">
+                <div class="col-lg-10 offset-lg-1 col-xl-8 offset-xl-2 text-lg-center">
+                    <h2 class="fw-bolder">
+                        Discover the Secret to Better Sleep with the REM Super Patch™ The World's Only
+                        Drug-Free Sleep Improvement Solution
+                    </h2>
+                    <p class="mt-4 mb-0">
+                        Are you tired of restless nights, tossing and turning, and waking up groggy? Say
+                        goodbye to sleepless nights and hello to rejuvenating sleep with the REM Super Patch™. Our
+                        innovative, drug-free solution is designed to help you fall asleep faster, sleep longer,
+                        wake up less during the night, and feel refreshed and rejuvenated every morning.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <!-- sleep-deeply-video section  -->
+        <div class="sleep-deeply-video-section text-white text-center">
+            <div class="container-xl">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h2 class="display-1 fw-bolder">SLEEP DEEPLY</h2>
+                        <p class="fs-3">How it works</p>
+                    </div>
+
+                    <div class="sleep-deeply-video col-md-12">
+                        <i class="display-1 bi bi-play-circle-fill" id="sleepDeeplyVideo"></i>
+                        <p class="mt-4">Press to Play Video</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container-fluid">
+            <div class="row about-rem-section pt-5 pb-0 py-lg-5">
+                <div class="col-lg-10 offset-lg-1 col-xl-8 offset-xl-2">
+                    <div class="row choose-rem-patch">
+                        <div class="col-12 col-lg-6 d-flex align-items-center">
+                            <img src="./images/Sleep_patch_02.jpg" alt="Why Choose REM Super Patch" class="img-fluid">
+                        </div>
+                        <div class="col-lg-6 col-md-12 py-5 p-lg-5">
+                            <h3 class="fw-bolder fs-4 mt-3 mt-lg-0">Why Choose REM Super Patch™?</h3>
+                            <h4 class="fw-bold fs-6 mt-4">100% Drug-Free</h4>
+                            <p>No ingredients, no melatonin, no CBD. Just pure, natural sleep enhancement.</p>
+                            <h4 class="fw-bold fs-6 mt-4">No Side Effects</h4>
+                            <p>Safe to use with no risk of addiction or adverse effects.</p>
+                            <h4 class="fw-bold fs-6 mt-4">Easy To Use</h4>
+                            <p>Apply the patch before bed and experience the benefits of better sleep.</p>
+                            <h4 class="fw-bold fs-6 mt-4">Proven Results</h4>
+                            <p>Backed by scientific studies and trusted by over 100,000 happy customers.</p>
+                            <h4 class="fw-bold fs-6 mt-4">Preferred by Users</h4>
+                            <p>85% of users prefer the REM Patch over melatonin and other over-the-counter sleep
+                                aids.
+                            </p>
+                            <div class="row mt-3">
+                                <div
+                                    class="col-md-12 mt-3 d-flex align-items-center justify-content-center justify-content-md-start">
+                                    <a href="#remShopSection" type="button" class="btn btn-red">Shop Now</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- jay glazer video section -->
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-lg-10 offset-lg-1 col-xl-8 offset-xl-2">
+                    <div class="jay-glazer-video-section text-white text-center mt-3">
+                        <div class="jay-glazer-video">
+                            <h2 class="fs-3">The REM Super Patch™</h2>
+                            <h2 class="display-4 fw-bolder">One Man's Journey</h2>
+                            <p class="fs-3">Jay Glazer</p>
+
+                            <i class="display-1 bi bi-play-circle-fill" id="jayGlazerVideo"></i>
+                            <p class="mt-4">Press to Play Video</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="jay-glazer-info text-center py-5">
+                    <div class="col-lg-10 offset-lg-1 col-xl-8 offset-xl-2 text-lg-center">
+                        <p class="mb-0">Jay Glazer, television and film personality, well-known NFL insider on FOX's
+                            award-winning NFL Sunday, and mixed martial arts trainer/practitioner, talks about his
+                            life-long struggle with clinical sleep problems and chronic pain. For almost his entire
+                            life, restful sleep has been a challenge for Jay. It all changed for him when he started
+                            using REM Super Patch. Jay describes it as miraculous. He now enjoys deeper, longer sleep
+                            which has contributed to higher peak performance in training and daily living.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- faq section -->
+        <div class="container-fluid light-gray-bg">
+            <div class="row faq-section">
+                <div class="col-lg-10 offset-lg-1 col-xl-8 offset-xl-2">
+                    <div class="row py-5">
+                        <div class="col-12 text-center">
+                            <h2 class="fw-bolder">Frequently Asked Questions</h2>
+                        </div>
+                        <div class="col-md-12 mt-4 mt-lg-5">
+                            <div class="accordion" id="faqAccordion">
+                                <div class="accordion-item">
+                                    <h2 class="accordion-header">
+                                        <button class="accordion-button collapsed" type="button"
+                                            data-bs-toggle="collapse" data-bs-target="#collapseOne"
+                                            aria-expanded="false" aria-controls="collapseOne">
+                                            Where should I place the patch?
+                                        </button>
+                                    </h2>
+                                    <div id="collapseOne" class="accordion-collapse collapse"
+                                        data-bs-parent="#faqAccordion">
+                                        <div class="accordion-body">
+                                            Firmly apply the patch to clean, dry, unbroken skin anywhere on your
+                                            body. You can change the location of the patch daily. Our patches are
+                                            made from medical 3M material. They are hypoallergenic, water-resistant, and
+                                            made in America. There are no drugs, chemicals, or extracts in or on our
+                                            patches.
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="accordion-item">
+                                    <h2 class="accordion-header">
+                                        <button class="accordion-button collapsed" type="button"
+                                            data-bs-toggle="collapse" data-bs-target="#collapseTwo"
+                                            aria-expanded="false" aria-controls="collapseTwo">
+                                            How long do I wear the patch for?
+                                        </button>
+                                    </h2>
+                                    <div id="collapseTwo" class="accordion-collapse collapse"
+                                        data-bs-parent="#faqAccordion">
+                                        <div class="accordion-body">
+                                            Super Patches can be worn for 24 hours or a shorter period. Our patches
+                                            are made from medical 3M material. They are hypoallergenic,
+                                            water-resistant, and made in America. There are no drugs, chemicals, or
+                                            extracts in or on our patches. The REM Patch should be applied when getting
+                                            ready to sleep and removed after waking up for the day.
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="accordion-item">
+                                    <h2 class="accordion-header">
+                                        <button class="accordion-button collapsed" type="button"
+                                            data-bs-toggle="collapse" data-bs-target="#collapseThree"
+                                            aria-expanded="false" aria-controls="collapseThree">
+                                            Are there any expected side effects?
+                                        </button>
+                                    </h2>
+                                    <div id="collapseThree" class="accordion-collapse collapse"
+                                        data-bs-parent="#faqAccordion">
+                                        <div class="accordion-body">
+                                            Our patches are made from medical 3M material. They are hypoallergenic,
+                                            water-resistant, and made in America. There are no drugs, chemicals, or
+                                            extracts in or on our patches. The Super Patches have no known side
+                                            effects. If you experience skin irritation, remove the patch and
+                                            discontinue use.
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="accordion-item">
+                                    <h2 class="accordion-header">
+                                        <button class="accordion-button collapsed" type="button"
+                                            data-bs-toggle="collapse" data-bs-target="#collapseFour"
+                                            aria-expanded="false" aria-controls="collapseFour">
+                                            What is the size of the patch?
+                                        </button>
+                                    </h2>
+                                    <div id="collapseFour" class="accordion-collapse collapse"
+                                        data-bs-parent="#faqAccordion">
+                                        <div class="accordion-body">
+                                            Super Patches are 2 inches by 2 inches in size.
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="accordion-item">
+                                    <h2 class="accordion-header">
+                                        <button class="accordion-button collapsed" type="button"
+                                            data-bs-toggle="collapse" data-bs-target="#collapseFive"
+                                            aria-expanded="false" aria-controls="collapseFive">
+                                            Can I wear more than one type of patch at the same time?
+                                        </button>
+                                    </h2>
+                                    <div id="collapseFive" class="accordion-collapse collapse"
+                                        data-bs-parent="#faqAccordion">
+                                        <div class="accordion-body">
+                                            Yes, more than one patch can be worn at a time. The different patches do
+                                            not interfere with the efficacy of any other patch. It has been observed
+                                            that the Liberty patch may help the efficiency of the other patches.
+                                            Wearing more than one of the same patches will not increase the patch's
+                                            effectiveness. However, multiple Freedom Patches can be worn in
+                                            situations where the user is experiencing discomfort in different parts of
+                                            the body.
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- rem patch section -->
+        <div class="container-fluid" id="remShopSection">
+            <div class="row rem-patch-section pt-5 pt-lg-0">
+                <div class="col-lg-10 offset-lg-1 col-xl-8 offset-xl-2">
+                    <div class="row">
+                        <div class="col-12 col-lg-6 d-flex align-items-center">
+                            <img src="./images/Sleep_patch_package_01.jpg" alt="Sleep Patch Package" class="img-fluid">
+                        </div>
+                        <div class="col-12 col-lg-6 py-5 p-lg-5">
+                            <div class="d-flex d-lg-none">
+                                <span class="fw-bolder display-3 mt-3">REM
+                                    <span class="sleep-deeply fs-6">Sleep Deeply</span>
+                                </span>
+                            </div>
+                            <h2 class="fw-bolder display-2 d-none d-lg-block mb-0">REM</h2>
+                            <h3 class="fw-bold d-none d-lg-block mb-0">Sleep Deeply</h3>
+                            <div class="price-per-pack mt-2">
+                                <span class="price fs-2">$60.00 </span>
+                                <span class="pack fs-5">
+                                    <span class="me-1">•</span>
+                                    Pack of 28 patches
+                                </span>
+                            </div>
+                            <div class="review mt-2">
+                                <div class="row">
+                                    <div class="col-md-12 d-flex align-items-center ">
+                                        <span class="count me-2">4.5</span>
+                                        <span class="stars fs-5">
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                        </span>
+                                        <span class="total-reviews-count ms-3">1,367</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="add-to-cart mt-3">
+                                <div class="row">
+                                    <div class="col-6">
+                                        <div class="quantity-input d-flex align-items-center">
+                                            <button
+                                                class="btn quantity-btn fw-bold minus-btn d-flex align-items-center justify-content-center">-</button>
+                                            <input type="number" class="form-control quantity fw-bold" value="1">
+                                            <button
+                                                class="btn quantity-btn fw-bold plus-btn align-items-center justify-content-center">+</button>
+                                        </div>
+                                    </div>
+                                    <div class="col-6 d-flex align-items-center">
+                                        <button type="button" class="btn btn-red w-100 add-to-cart-btn">ADD TO
+                                            CART</button>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="rem-info mt-3">
+                                <p class="small">
+                                    Healthy sleep plays a vital role in rejuvenating both the mind and body,
+                                    contributing significantly to overall well-being. With the REM Super Patch™,
+                                    achieving a balanced sleep cycle has never been more attainable. This
+                                    non-invasive and drug-free technology offers a natural approach to supporting
+                                    quality sleep, allowing the body to maintain optimal health more effortlessly. By
+                                    promoting restorative sleep patterns, the REM Super Patch™ empowers individuals to
+                                    awaken feeling refreshed and revitalized, ready to tackle their day.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- risk free section -->
+        <div class="container-fluid">
+            <div class="row risk-free-section pt-2 pt-lg-0 pb-5">
+                <div class="col-lg-10 offset-lg-1 col-xl-8 offset-xl-2 text-lg-center">
+                    <h2 class="fw-bolder">
+                        30 Days, Risk-Free. Money-Back Guarantee
+                    </h2>
+                    <p class="mt-4 mb-0">
+                        Try any of our products and if you're not fully satisfied, contact us for a full refund.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <!-- customers-review section -->
+        <div class="container-fluid">
+            <div class="row customers-review-section pt-2 pb-5">
+                <div class="col-lg-10 offset-lg-1 col-xl-8 offset-xl-2">
+                    <div class="row">
+                        <div class="col-12 text-center">
+                            <h2 class="fw-bolder">What Our Customers Are Saying</h2>
+                        </div>
+                        <div class="col-12 mt-4">
+                            <div class="owl-carousel owl-theme reviews">
+                                <div class="item card-item p-3 light-gray-bg">
+                                    <div class="row">
+                                        <div class="col-3 d-flex justify-content-center align-items-center">
+                                            <div class="name-initial">LK</div>
+                                        </div>
+                                        <div class="col-9 d-flex flex-column justify-content-center">
+                                            <h4 class="fs-6 mb-0">Lauren King</h4>
+                                            <span class="stars">
+                                                <i class="bi bi-star-fill"></i>
+                                                <i class="bi bi-star-fill"></i>
+                                                <i class="bi bi-star-fill"></i>
+                                                <i class="bi bi-star-fill"></i>
+                                                <i class="bi bi-star-fill"></i>
+                                            </span>
+                                        </div>
+                                    </div>
+                                    <div class="row mt-3">
+                                        <div class="col-12">
+                                            <p>Since using this patch, my sleep quality has drastically
+                                                improved. I wake up feeling rejuvenated and ready to tackle the day.
+                                                Highly recommend for a blissful night's rest!</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="item card-item p-3 light-gray-bg">
+                                    <div class="row">
+                                        <div class="col-3 d-flex justify-content-center align-items-center">
+                                            <div class="name-initial">AW</div>
+                                        </div>
+                                        <div class="col-9 d-flex flex-column justify-content-center">
+                                            <h4 class="fs-6 mb-0">Andrew Wright</h4>
+                                            <span class="stars">
+                                                <i class="bi bi-star-fill"></i>
+                                                <i class="bi bi-star-fill"></i>
+                                                <i class="bi bi-star-fill"></i>
+                                                <i class="bi bi-star-fill"></i>
+                                                <i class="bi bi-star-fill"></i>
+                                            </span>
+                                        </div>
+                                    </div>
+                                    <div class="row mt-3">
+                                        <div class="col-12">
+                                            <p>I'm genuinely impressed with this sleep patch. Falling asleep is
+                                                easier, and I wake up feeling like a new person - so energized
+                                                and refreshed. It has truly transformed my mornings.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="item card-item p-3 light-gray-bg">
+                                    <div class="row">
+                                        <div class="col-3 d-flex justify-content-center align-items-center">
+                                            <div class="name-initial">BG</div>
+                                        </div>
+                                        <div class="col-9 d-flex flex-column justify-content-center">
+                                            <h4 class="fs-6 mb-0">Brittany Green</h4>
+                                            <span class="stars">
+                                                <i class="bi bi-star-fill"></i>
+                                                <i class="bi bi-star-fill"></i>
+                                                <i class="bi bi-star-fill"></i>
+                                                <i class="bi bi-star-fill"></i>
+                                                <i class="bi bi-star-fill"></i>
+                                            </span>
+                                        </div>
+                                    </div>
+                                    <div class="row mt-3">
+                                        <div class="col-12">
+                                            <p>Incredible! This patch has revolutionized my sleep. No more
+                                                tossing and turning, just peaceful sleep and waking up full of energy.
+                                                It's been a game-changer for my daily life.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="item card-item p-3 light-gray-bg">
+                                    <div class="row">
+                                        <div class="col-3 d-flex justify-content-center align-items-center">
+                                            <div class="name-initial">KA</div>
+                                        </div>
+                                        <div class="col-9 d-flex flex-column justify-content-center">
+                                            <h4 class="fs-6 mb-0">Kevin Adams</h4>
+                                            <span class="stars">
+                                                <i class="bi bi-star-fill"></i>
+                                                <i class="bi bi-star-fill"></i>
+                                                <i class="bi bi-star-fill"></i>
+                                                <i class="bi bi-star-fill"></i>
+                                                <i class="bi bi-star-fill"></i>
+                                            </span>
+                                        </div>
+                                    </div>
+                                    <div class="row mt-3">
+                                        <div class="col-12">
+                                            <p>A must-have for anyone seeking better sleep! This patch not only
+                                                helps me fall asleep quickly but also ensures I wake up feeling
+                                                fantastic and energized. It's like experiencing the best sleep
+                                                every night.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="item card-item p-3 light-gray-bg">
+                                    <div class="row">
+                                        <div class="col-3 d-flex justify-content-center align-items-center">
+                                            <div class="name-initial">EB</div>
+                                        </div>
+                                        <div class="col-9 d-flex flex-column justify-content-center">
+                                            <h4 class="fs-6 mb-0">Emily Baker</h4>
+                                            <span class="stars">
+                                                <i class="bi bi-star-fill"></i>
+                                                <i class="bi bi-star-fill"></i>
+                                                <i class="bi bi-star-fill"></i>
+                                                <i class="bi bi-star-fill"></i>
+                                                <i class="bi bi-star-fill"></i>
+                                            </span>
+                                        </div>
+                                    </div>
+                                    <div class="row mt-3">
+                                        <div class="col-12">
+                                            <p>Sleeping has never been so rejuvenating! This patch helps me wake
+                                                up feeling incredibly fresh and full of energy. It's a total
+                                                transformation from my previous restless nights.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="item card-item p-3 light-gray-bg">
+                                    <div class="row">
+                                        <div class="col-3 d-flex justify-content-center align-items-center">
+                                            <div class="name-initial">JG</div>
+                                        </div>
+                                        <div class="col-9 d-flex flex-column justify-content-center">
+                                            <h4 class="fs-6 mb-0">Joshua Gonzalez</h4>
+                                            <span class="stars">
+                                                <i class="bi bi-star-fill"></i>
+                                                <i class="bi bi-star-fill"></i>
+                                                <i class="bi bi-star-fill"></i>
+                                                <i class="bi bi-star-fill"></i>
+                                                <i class="bi bi-star-fill"></i>
+                                            </span>
+                                        </div>
+                                    </div>
+                                    <div class="row mt-3">
+                                        <div class="col-12">
+                                            <p>Finally, a product that lives up to its promise! The sleep patch
+                                                delivers amazing results – I sleep soundly and wake up with such
+                                                vitality. It's been a blessing for my sleep routine. Five stars
+                                                without hesitation!
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="item card-item p-3 light-gray-bg">
+                                    <div class="row">
+                                        <div class="col-3 d-flex justify-content-center align-items-center">
+                                            <div class="name-initial">LN</div>
+                                        </div>
+                                        <div class="col-9 d-flex flex-column justify-content-center">
+                                            <h4 class="fs-6 mb-0">Lindsay Nelson</h4>
+                                            <span class="stars">
+                                                <i class="bi bi-star-fill"></i>
+                                                <i class="bi bi-star-fill"></i>
+                                                <i class="bi bi-star-fill"></i>
+                                                <i class="bi bi-star-fill"></i>
+                                                <i class="bi bi-star-fill"></i>
+                                            </span>
+                                        </div>
+                                    </div>
+                                    <div class="row mt-3">
+                                        <div class="col-12">
+                                            <p>I can't praise this sleep patch enough! It's not just about
+                                                sleeping well; it's about waking up energized and ready to go. This
+                                                patch has made a noticeable difference in my life.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="item card-item p-3 light-gray-bg">
+                                    <div class="row">
+                                        <div class="col-3 d-flex justify-content-center align-items-center">
+                                            <div class="name-initial">ZC</div>
+                                        </div>
+                                        <div class="col-9 d-flex flex-column justify-content-center">
+                                            <h4 class="fs-6 mb-0">Zachary Carter</h4>
+                                            <span class="stars">
+                                                <i class="bi bi-star-fill"></i>
+                                                <i class="bi bi-star-fill"></i>
+                                                <i class="bi bi-star-fill"></i>
+                                                <i class="bi bi-star-fill"></i>
+                                                <i class="bi bi-star-fill"></i>
+                                            </span>
+                                        </div>
+                                    </div>
+                                    <div class="row mt-3">
+                                        <div class="col-12">
+                                            <p>This patch has been my savior for restful nights and energetic
+                                                mornings. I wake up feeling like I've had the best sleep ever.
+                                                It's a real life-changer for anyone struggling with sleep quality!
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="item card-item p-3 light-gray-bg">
+                                    <div class="row">
+                                        <div class="col-3 d-flex justify-content-center align-items-center">
+                                            <div class="name-initial">HM</div>
+                                        </div>
+                                        <div class="col-9 d-flex flex-column justify-content-center">
+                                            <h4 class="fs-6 mb-0">Heather Mitchell</h4>
+                                            <span class="stars">
+                                                <i class="bi bi-star-fill"></i>
+                                                <i class="bi bi-star-fill"></i>
+                                                <i class="bi bi-star-fill"></i>
+                                                <i class="bi bi-star-fill"></i>
+                                                <i class="bi bi-star-fill"></i>
+                                            </span>
+                                        </div>
+                                    </div>
+                                    <div class="row mt-3">
+                                        <div class="col-12">
+                                            <p>A round of applause for this amazing sleep patch! Not only does
+                                                it help me sleep deeply, but I also wake up feeling so energized
+                                                and refreshed. It's like having a reset button for the best start
+                                                every morning!
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- wear tech section -->
+        <div class="wear-tech-section">
+            <div class="container-fluid">
+                <div class="row d-none d-lg-flex">
+                    <div class="col-lg-10 offset-lg-1 col-xl-8 offset-xl-2">
+                        <div class="row">
+                            <div class="col-md-4 rem-patch-bg">
+                                <img src="./images/rem-patch-peel.png" alt="REM" class="img-fluid">
+                            </div>
+                            <div class="col-md-8">
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <h2 class="text-white text-center fw-bolder">How to Wear the Tech</h2>
+                                    </div>
+                                </div>
+                                <div class="row text-center">
+                                    <div class="col-md-4">
+                                        <div class="how-it-works">
+                                            <div class="row align-items-center justify-content-center">
+                                                <img src="./images/how-it-works-open-2.webp" alt="Superpatch"
+                                                    class="img-fluid">
+                                                <p class="mt-3">Open your Super Patch Pack and take out one patch.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="how-it-works">
+                                            <div class="row align-items-center justify-content-center">
+                                                <img src="./images/how-it-works-peel-2.webp" alt="Superpatch"
+                                                    class="img-fluid">
+                                                <p class="mt-3">Carefully peel off the patch from its protective sheet.
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="how-it-works">
+                                            <div class="row align-items-center justify-content-center">
+                                                <img src="./images/how-it-works-stick-2.webp" alt="Superpatch"
+                                                    class="img-fluid">
+                                                <p class="mt-3">Stick it on your forearm and start enjoying the benefits
+                                                    instantly!</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row d-lg-none">
+                    <div class="col-md-12 text-center">
+                        <h2 class="text-white fw-bolder">How to Wear the Tech</h2>
+                        <div class="row wear-tech d-flex justify-content-center">
+                            <div class="item mb-2">
+                                <div class="how-it-works">
+                                    <div class="row align-items-center">
+                                        <img src="./images/how-it-works-open-2.webp" alt="Superpatch"
+                                            class="img-fluid col-6">
+                                        <p class="col-6 fs-4 mb-0">Open your Super Patch Pack and take out one
+                                            patch.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item my-2">
+                                <div class="how-it-works">
+                                    <div class="row align-items-center">
+                                        <img src="./images/how-it-works-peel-2.webp" alt="Superpatch"
+                                            class="img-fluid col-6">
+                                        <p class="col-6 fs-4 mb-0">Carefully peel off the patch from its protective
+                                            sheet.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item my-2">
+                                <div class="how-it-works">
+                                    <div class="row align-items-center">
+                                        <img src="./images/how-it-works-stick-2.webp" alt="Superpatch"
+                                            class="img-fluid col-6">
+                                        <p class="col-6 fs-4 mb-0">Stick it on your forearm and start enjoying the
+                                            benefits instantly!</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- advisory board section -->
+        <div class="container-fluid">
+            <div class="advisory-board-section py-5">
+                <div class="row">
+                    <div class="col-lg-10 offset-lg-1 col-xl-8 offset-xl-2">
+                        <div class="row">
+                            <div class="col-12 text-center">
+                                <h2 class="fw-bolder">Our Scientific Advisory Board</h2>
+                                <p class="mt-3">
+                                    We are proud to be led by some of the most brilliant minds in medicine and
+                                    natural science
+                                </p>
+                            </div>
+                            <div class="col-12 mt-4">
+                                <div class="owl-carousel owl-theme advisory-board">
+                                    <div class="item card-item light-gray-bg">
+                                        <img src="./images/anna-toker.png" alt="Dr. Anna Toker" class="img-fluid">
+                                        <div class="row p-4">
+                                            <div class="col-md-12 text-center">
+                                                <h4 class="fs-5 fw-bolder">Dr. Anna Toker</h4>
+                                                </h5>
+                                            </div>
+                                            <div class="col-md-12">
+                                                <p>Dr. Anna Toker, a distinguished surgeon with over two decades of
+                                                    experience, is a passionate advocate for overall wellness.
+                                                    Renowned for her expertise in gut health and nutrition, Dr. Toker's
+                                                    commitment to patient education has earned her a significant
+                                                    following on social media platforms. Through her online
+                                                    educational programs and telehealth consultations, Dr. Toker
+                                                    empowers individuals to prioritize digestive health and achieve
+                                                    optimal well-being.
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="item card-item light-gray-bg">
+                                        <img src="./images/alexander-schauss.png" alt="Alexander G. Schauss"
+                                            class="img-fluid">
+                                        <div class="row p-4">
+                                            <div class="col-md-12 text-center">
+                                                <h4 class="fs-5 fw-bolder">Alexander G. Schauss</h4>
+                                                <h5 class="fs-6">The Super Patch Company<br>
+                                                    PhD, CFS, FACN
+                                                </h5>
+                                            </div>
+                                            <div class="col-md-12">
+                                                <p>As the Founder and Senior Director of Research at AIBMR Life
+                                                    Sciences, Inc., Dr. Alexander G. Schauss has revolutionized
+                                                    scientific and regulatory consulting. With over 150
+                                                    peer-reviewed papers and 23 books to his credit, Dr. Schauss's
+                                                    contributions have impacted industries worldwide. His dedication to
+                                                    advancing nutrition and botanical medicine has earned him
+                                                    prestigious awards and recognition, solidifying his position as a
+                                                    leader in the field.
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="item card-item light-gray-bg">
+                                        <img src="./images/marc-boff.png" alt="Dr. Marc H Boff" class="img-fluid">
+                                        <div class="row p-4">
+                                            <div class="col-md-12 text-center">
+                                                <h4 class="fs-5 fw-bolder">Dr. Marc H Boff</h4>
+                                                </h5>
+                                            </div>
+                                            <div class="col-md-12">
+                                                <p>Dr. Marc H Boff, with 20 NBA seasons under his belt, is a leading
+                                                    figure in physical therapy and sports performance. As the former
+                                                    Director of Sports Medicine for the Milwaukee Bucks and Head
+                                                    Athletic Trainer for the Chicago Bulls, Dr. Boff's expertise
+                                                    spans elite sports and entertainment. With a commitment to
+                                                    excellence, Dr. Boff leverages his vast experience to provide
+                                                    cutting-edge services in orthopedic training, injury prevention, and
+                                                    nutrition, ensuring optimal performance for his clients.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- footer section -->
+        <div class="footer-section light-gray-bg py-5">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-lg-10 offset-lg-1 col-xl-8 offset-xl-2">
+                        <div class="row">
+                            <div class="col-lg-5 mb-3 mb-lg-0">
+                                <div class="d-flex justify-content-center justify-content-lg-start">
+                                    <div class="text-center py-2 flex-shrink-1">
+                                        <a href="https://www.superpatch.com/" target="_blank">
+                                            <img src="./images/superpatch-logo.svg" alt="Superpatch Logo"
+                                                class="superpatch-logo img-fluid">
+                                        </a>
+                                        <div class="pt-4">
+                                            <a href="https://www.facebook.com/SuperPatchCompany/"><i
+                                                    class="bi bi-facebook fs-5 me-2"></i></a>
+                                            <a href="https://www.youtube.com/channel/UC-LxkElDEL7EtVSF4PqloPA"><i
+                                                    class="bi bi-youtube fs-5 me-2"></i></a>
+                                            <a href="https://www.instagram.com/superpatchco/"><i
+                                                    class="bi bi-instagram fs-5"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-7 d-flex justify-content-center justify-content-lg-end mt-4">
+                                <nav>
+                                    <ul class="list-unstyled row text-center mb-0 row-cols-1 row-cols-md-auto">
+                                        <li class="col mb-3 mb-md-0">
+                                            <a href="mailto:help@superpatch.com" class="d-block">Contact</a>
+                                        </li>
+                                        <li class="col mb-3 mb-md-0">
+                                            <a href="#" class="d-block" data-bs-toggle="modal"
+                                                data-bs-target="#privacyPolicyModal">
+                                                Privacy Policy & Disclaimer
+                                            </a>
+                                        </li>
+                                        <li class="col mb-3 mb-md-0">
+                                            <a href="#" class="d-block" data-bs-toggle="modal"
+                                                data-bs-target="#returnsPolicyModal">
+                                                Refunds Policy
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </nav>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- cart modal section -->
+    <div class="cart-modal px-4" id="cartModalOverlay">
+        <div class="row py-2">
+            <h2 class="fs-5 mb-3">Cart</h2>
+            <div class="col-12 col-md-6 d-flex align-items-center mt-2 mt-lg-0">
+                <h3 class="fs-6 mb-0">REM Super Patch - Pack of 28 Patches</h3>
+            </div>
+            <div class="col-12 col-md-3 d-flex align-items-center mt-2 mt-lg-0">
+                <div class="quantities">
+                    <select class="form-select quantity-select">
+                        <option value="0">Remove</option>
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                        <option value="6">6</option>
+                        <option value="7">7</option>
+                        <option value="8">8</option>
+                        <option value="9">9</option>
+                        <option value="10">10</option>
+                    </select>
+                </div>
+                <h3 class="ms-4 fs-6 mb-0" id="totalPrice">$60.00</h3>
+            </div>
+            <div class="col-12 col-md-3 d-flex align-items-center mt-2 mt-lg-0">
+                <button type="button" class="btn btn-red" data-action="checkout" data-quantity="0">Checkout
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Privacy Policy Modal -->
+    <div class="modal fade" id="privacyPolicyModal" tabindex="-1" aria-labelledby="privacyPolicyModalLabel"
+        aria-hidden="true">
+        <div class="modal-dialog modal-xl">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h1 class="modal-title fs-5" id="privacyPolicyModalLabel">Privacy Policy & Disclaimer</h1>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <p class="fw-bolder"><u>OUR COMMITMENT TO PRIVACY</u></p>
+                            <p>Our Privacy Policy has been developed as an extension of our commitment to
+                                combine quality products and services with integrity in dealing with users. The
+                                Policy is designed to assist you in the understanding of how we collect, use and
+                                protect the personal information provided to us.</p>
+
+                            <p class="fw-bolder"><u>THE INFORMATION WE COLLECT</u></p>
+                            <p>When you visit our site, we collect two types of information: personal
+                                information you actively choose to disclose (“Active Information”) and
+                                information not visible to you that arises out of your browsing of our site
+                                (“Passive Information”). Please note that passive Information is collected on an
+                                aggregate and anonymous basis.</p>
+
+                            <p class="fw-bolder">1. Personally Identifiable Information</p>
+                            <p>Personally Identifiable Information is information that identifies and is
+                                reasonably linked to you.</p>
+
+                            <p class="fw-bolder">A. Registration</p>
+                            <p>When you register to become an authorized reseller of our products or services,
+                                we will collect Personally Identifiable Information (such as name, address,
+                                email address, and telephone number). This Personally Identifiable Information
+                                is securely stored and may be accessed on our website. You are assigned an
+                                identification number and select your own password – both are needed to enter
+                                the Site and to access your Contact Information. Please safeguard your password
+                                in a secure location as we are not responsible for breaches into the system when
+                                access is willingly provided.</p>
+
+                            <p class="fw-bolder">B. Ordering</p>
+                            <p>When you place an order for products or services, we collect Personally
+                                Identifiable Information (such as name, contact and billing information, credit
+                                card, and other transactional information). We use this information to deliver
+                                your order, process payment, and to communicate the status of your order.</p>
+
+                            <p class="fw-bolder">C. Credit and Debit Card Storage</p>
+                            <p>Credit and debit card information collected at registration or for product orders
+                                is used only to process payment for the transaction and, generally, is not
+                                retained on our Site. However, you may voluntarily elect to securely store
+                                multiple credit cards to be used for product orders.</p>
+
+                            <p class="fw-bolder">D. Surveys and Promotions</p>
+                            <p>Occasionally, you may voluntarily provide Personally Identifiable Information to
+                                complete surveys and questionnaires or to participate in user polls. We use this
+                                information to improve our products and services and to ensure that we're
+                                providing accurate disclosures. We may also use your Personally Identifiable
+                                Information to provide you newsletters and other marketing information that
+                                coincide with your preferences. You may customize your marketing preferences, or
+                                let us know if you do not wish to receive any promotional materials, by
+                                adjusting your Subscriptions & Email options on the Site.</p>
+
+                            <p class="fw-bolder">Active Information You Choose to Provide</p>
+                            <p>In order to gain use of the site (become a “user”), we require you to disclose
+                                the following information: Name, Address, Email Address and Phone Number.</p>
+                            <p>We use secure socket layer (SSL) encryption to protect the transmission of the
+                                information you submit to us when you use our secure online forms. The
+                                information you provide to us is stored securely.</p>
+
+                            <p class="fw-bolder">2. Passive Information</p>
+                            <p class="fw-bolder">We store and collect various types of passive information on an
+                                aggregate
+                                and anonymous basis. This information may include such technical information
+                                as it pertains to your Internet protocol address, your device operating
+                                system and browser type, cookies, and an address of a referring website or
+                                any other path you take to reach our website all described in greater detail
+                                below./p>
+
+                            <p class="fw-bolder">Aggregate Information</p>
+                            <p>This refers to information that does not, by itself, identify you as a specific
+                                individual. Such information would include the Uniform Resource Locator (“URL”)
+                                of the website that referred you to our Site, your Internet Protocol (“IP”)
+                                address (a number automatically assigned to your computer whenever you surf the
+                                web), your operating system and browser type, and any search terms that you
+                                enter on our Site. Our web server aggregates this information in order to
+                                monitor the level of activity on our Site, evaluate its effectiveness, and
+                                improve the content or our Site in order to make your visit an easy and
+                                enjoyable experience.</p>
+                            <p>We may collect, compile, store, publish, promote, report, or otherwise disclose
+                                or use any Aggregate Information, provided that such information does not
+                                personally identify you. We do not correlate any Personally Identifiable
+                                Information with the Aggregate Information that we collect on our Site. If we do
+                                correlate any Aggregate Information to you, it will be protected like any other
+                                Personally Identifiable Information under this Privacy Statement.</p>
+
+                            <p class="fw-bolder">What is a Cookie?</p>
+                            <p>Cookies are a feature of web browser software that allows web servers to
+                                recognize the computer used to access a site. They are small pieces of data
+                                stored by a user's browser to simplify subsequent interactions with the site.
+                                This makes it easier for a user to move from site to site and to complete
+                                transactions over the Internet. Cookies should make your online experience
+                                easier and more personalized.</p>
+                            <p>Our site utilizes cookies to collect information about how our site is used.
+                                Passive Information gathered may include the date and time of visits, the site
+                                pages viewed, time spent at our site, the sites visited just before and just
+                                after visiting our site. If you do not wish to transmit “cookie” information
+                                about yourself, you may turn off the cookie function in your web browser.</p>
+                            <p>Our site's servers also automatically identify your computer by its Internet
+                                Protocol address, which is a unique string of numbers that are assigned to your
+                                computer by your Internet Service Provider. The IP address may be used to
+                                address problems with our server or to gather broad demographic information
+                                about our users. We passively collect your IP Address.</p>
+
+                            <p class="fw-bolder"><u>HOW WE USE THE INFORMATION COLLECTED</u></p>
+                            <p>Broadly speaking, persons we employ directly, or as contractors or agents at our
+                                direction, use Active Information for purposes of administering our core
+                                business functions, such as the fulfillment of orders or services, the
+                                furnishing of customer care and support, and supplying the availability of other
+                                products or services we think might be of interest to our users.</p>
+                            <p>We use Passive Information to gather information about our users and to enhance
+                                our site to make it easier, faster and friendlier for users. Additionally,
+                                cookies help us better understand the usage pattern of the people that visit our
+                                site, which helps us improve our services. Passive Information may result in
+                                your viewing of particular advertising based on your user habits.</p>
+                            <p>We reserve the right to use Active and Passive Information in order to prevent,
+                                detect and investigate fraud, security breaches, or any other potentially
+                                prohibited or illegal activity.</p>
+                            <p>We may use any Active Information or Passive Information provided to contact you
+                                about various changes to our site, new services, features or products we offer.
+                                If at any time you do not wish to receive such information, you may “opt-out” of
+                                doing so by adjusting your email settings in the back office of the website.</p>
+
+                            <p class="fw-bolder">Your Information Relating to Hyperlinks</p>
+                            <p>You might be able to access other websites through our site via hyperlinks. When
+                                you do so, you are subjecting yourself to their privacy policies and data
+                                collection. Please read the privacy policies of those sites to ensure you agree
+                                with the terms before using such sites.</p>
+
+                            <p class="fw-bolder">Receiving and Sharing of Information from and with Third
+                                Parties</p>
+                            <p>We reserve the right to receive information about you from other third party
+                                sources that help us update, expand and analyze our records and identify new
+                                customers.</p>
+                            <p>Furthermore, we may share Personal Information necessary to the prevention of
+                                fraud, illegal activities, and security breaches. Because of this, it's possible
+                                some of your personal information may be shared with fraud prevention agencies.
+                                If false or inaccurate information is provided and fraud is identified, details
+                                of this fraud may be passed on to these agencies. Likewise, law enforcement and
+                                governmental agencies may access and use certain information pursuant to any
+                                law, regulation, or subpoena. This applies to information as it relates to both
+                                open and closed accounts.</p>
+                            <p>Additionally, third parties who perform services for us as it relates to
+                                security, payment, etc. (such as Internet Service Providers, credit card
+                                processors, and merchant banks) may also have access to your information in the
+                                performance of such necessary services.</p>
+                            <p>Finally, we may disclose anonymous information about user habits to third party
+                                advertisers on our site. Should we buy or sell assets of our company, another
+                                company may need to review our company's assets, which might include your
+                                information, to make business decisions as to whether to acquire such assets.
+                            </p>
+
+                            <p class="fw-bolder">HOW WE SECURE ACTIVE AND PASSIVE INFORMATION</p>
+                            <p>We secure your personal information submitted by you by using reasonable efforts
+                                to prevent unauthorized access or disclosure, or accidental loss of Active and
+                                Passive Information. Individual postings on this site and other communications
+                                to our office via email or standard mail may not be secure unless we advise you
+                                that security measures are in place prior to your submission of information.
+                                Therefore, if you choose to communicate with us through these means, you are
+                                assuming the risk of doing so and we respectfully request that you do not send
+                                or post sensitive information through these means.</p>
+
+                            <p class="fw-bolder">Accessing and Correcting Your Information</p>
+                            <p>We take reasonable measures to ensure that any Personally Identifiable
+                                Information we collect on our Site is accurate, current, complete, and reliable
+                                for its intended use. If you wish to update or otherwise correct Personally
+                                Identifiable Information provided to us, you may edit your information online.
+                            </p>
+
+                            <p class="fw-bolder">Protecting Your Information</p>
+                            <p>We acknowledge your trust and are committed to take reasonable steps to protect
+                                Personally Identifiable Information provided from loss, misuse, and unauthorized
+                                access. We employ physical, electronic, and managerial processes to safeguard
+                                and secure your information.</p>
+                            <p>It is your responsibility to safeguard the password you use to access our Site
+                                and to promptly advise us if you ever suspect that your password has been
+                                compromised. We strongly encourage you to change your password regularly to
+                                prevent unauthorized access. Because your identification number and password are
+                                specific to you, you acknowledge sole responsibility for any and all use of our
+                                Site conducted with your identification number and password.</p>
+
+                            <p class="fw-bolder">Links to Other Websites</p>
+                            <p>Links to third-party websites may be provided solely for your information and
+                                convenience or to provide additional shopping for various other goods and
+                                services through our Merchant and Services Partners. If you use these links, you
+                                will leave our Site. This Privacy Statement does not cover the information
+                                practices of those websites nor do we control their content or privacy policies.
+                                We suggest that you carefully review the privacy policies of each site you
+                                visit.</p>
+
+                            <p class="fw-bolder">Children's Privacy Protection</p>
+                            <p>We take special care to protect the privacy needs of children and encourage
+                                parents to be an active participant in their child's online activities. Our site
+                                does not target and is not intended for children under the age of 18, and we
+                                will not knowingly collect Personally Identifiable Information from them. If we
+                                discover personal data from a child through our site, we will eliminate that
+                                data. You may learn more about protecting children's privacy online by visiting:
+                                http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm.</p>
+
+                            <p class="fw-bolder">CHANGES TO THIS POLICY</p>
+                            <p>Any updates or changes to the terms of this Privacy Policy will be posted on our
+                                Site and the date of the newest version posted below. Please check back
+                                frequently, especially before you submit any Personally Identifiable Information
+                                at our Site, to see if this Privacy Statement has changed. By using our Site,
+                                you acknowledge acceptance of this Privacy Statement in effect at the time of
+                                use.</p>
+
+                            <p class="fw-bolder">YOUR USE OF OUR SITE MEANS THAT YOU ACCEPT THE PRACTICES SET
+                                FORTH IN
+                                THIS POLICY. YOUR CONTINUED USE INDICATES YOUR AGREEMENT TO THE
+                                CHANGES.</p>
+
+                            <p class="fw-bolder">DISCLAIMER:</p>
+                            <p>The results of using Super Patch products are not typical and individual results
+                                may vary. These products are not intended to diagnose, treat, cure, or prevent
+                                any disease. Although The Super Patch Company tries to ensure that this web site
+                                is current and does not contain inaccuracies, Super Patch does not warrant the
+                                effectiveness, relevance or completeness of any information available on this
+                                web site.</p>
+                            <p>Super Patch reserves the right to extend, modify or discontinue, without prior
+                                notice, any offers or promotions or marketing communications that may be
+                                advertised on website, social media, via emails or any other platform from time
+                                to time.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Refunds Policy Modal -->
+    <div class="modal fade" id="returnsPolicyModal" tabindex="-1" aria-labelledby="returnsPolicyModalLabel"
+        aria-hidden="true">
+        <div class="modal-dialog modal-xl">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h1 class="modal-title fs-5" id="returnsPolicyModalLabel">Refunds Policy</h1>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <p>We offer a 100% refund of the original product purchase price within the 30-day
+                                money-back guarantee. Please send an email to <a
+                                    href="mailto:refunds@superpatch.com"><u>refunds@superpatch.com</u></a> with
+                                your Order number and the product details within 30 days. We will respond to
+                                your request within 2-3 business days.</p>
+                            <p>Please note Shipping & Handling charges, if applicable, are not refundable.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="./js/jquery.min.js"></script>
+    <script src="./js/owl.carousel.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+        crossorigin="anonymous"></script>
+    <script src="./js/scripts.js"></script>
+</body>
+
+</html>`;
+
+export default template;
