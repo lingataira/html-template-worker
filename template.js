@@ -72,12 +72,12 @@ const template = () => `
     <h2>Our Featured Images</h2>
     <div class="cards">
       <div class="card">
-        <img src="/assets/chiro_defend_colour_576x1024_2x.webp" alt="Sample 1" />
+        <img src="../broad-bonus-b6c5//assets/chiro_defend_colour_576x1024_2x.webp" alt="Sample 1" />
         <h3>First Image</h3>
         <p>This is a short description for image one.</p>
       </div>
       <div class="card">
-        <img src="/assets/chiro_boost_colour_576x1024_2x.webp" alt="Sample 2" />
+        <img src="../broad-bonus-b6c5//assets/chiro_boost_colour_576x1024_2x.webp" alt="Sample 2" />
         <h3>Second Image</h3>
         <p>This is a short description for image two.</p>
       </div>
