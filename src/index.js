@@ -7,8 +7,8 @@
  *
  * Learn more at https://developers.cloudflare.com/workers/
  */
-import template from '../template';
-import anotherTemplate from '../another-template';
+import template from './template';
+import anotherTemplate from './another-template';
 
 export default {
 	async fetch(request, env) {
@@ -18,11 +18,10 @@ export default {
 			const assetPath = url.pathname.replace(/^\/assets/, '');
 			const assetUrl = new URL(assetPath, request.url);
 			const assetRequest = new Request(assetUrl, request);
-
 			return env.ASSETS.fetch(assetRequest);
 		}
 
-		if (url.pathname === '/another') {
+		if (url.pathname === '/another-template') {
 			return new Response(anotherTemplate(), {
 				headers: { 'content-type': 'text/html' },
 			});
