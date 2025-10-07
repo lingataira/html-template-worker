@@ -16,8 +16,8 @@ export default {
 		const url = new URL(request.url);
 
 		if (url.pathname.startsWith('/assets/')) {
-			const assetPath = url.pathname;
-			return env.ASSETS.fetch(assetPath);
+			const assetRequest = new Request(url.pathname, request);
+			return env.ASSETS.fetch(assetRequest);
 		}
 
 		if (url.pathname.startsWith('/css/')) {
