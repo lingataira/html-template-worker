@@ -9,22 +9,19 @@
  */
 import template from "../template";
 
-addEventListener("fetch", event => {
-  event.respondWith(handleRequest(event));
-});
+export default {
+  async fetch(request, env) {
+    const url = new URL(request.url);
 
-async function handleRequest(event) {
-  const request = event.request;
-  const url = new URL(request.url);
+    if (url.pathname.startsWith("/assets/")) {
+      return env.ASSETS.fetch(request);
+    }
 
-  if (url.pathname.startsWith("/assets/")) {
-    return event?.env?.ASSETS.fetch(request);
-  }
-
-  return new Response(template(), {
-    headers: { "content-type": "text/html" },
-  });
-}
+    return new Response(template(), {
+      headers: { "content-type": "text/html" },
+    });
+  },
+};
 
 
 // export default {
