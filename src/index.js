@@ -15,7 +15,7 @@ addEventListener('fetch', event => {
 
 async function handleRequest(request) {
 	return new Response(template(), {
-		headers: { 'content-type': 'text/plain'}
+		headers: { 'content-type': 'text/html'}
 	})
 }
 
