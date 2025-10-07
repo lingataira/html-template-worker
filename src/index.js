@@ -22,12 +22,12 @@ export default {
 			return env.ASSETS.fetch(assetRequest);
 		}
 
-		if (url.pathname.startsWith('/css/')) {
-			const assetPath = url.pathname.replace(/^\/css/, '');
-			const assetUrl = new URL(assetPath, request.url);
-			const assetRequest = new Request(assetUrl, request);
-			return env.CSS.fetch(assetRequest);
-		}
+		// if (url.pathname.startsWith('/css/')) {
+		// 	const assetPath = url.pathname.replace(/^\/css/, '');
+		// 	const assetUrl = new URL(assetPath, request.url);
+		// 	const assetRequest = new Request(assetUrl, request);
+		// 	return env.CSS.fetch(assetRequest);
+		// }
 
 		if (url.pathname === '/supersleep') {
 			return new Response(supersleep(), {
