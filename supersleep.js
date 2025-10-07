@@ -61,7 +61,7 @@ const supersleep = () => `
                     <nav class="row navbar bg-body-tertiary">
                         <div class="py-2 px-4">
                             <a class="navbar-brand" href="https://www.superpatch.com/" target="_blank">
-                                <img src="./images/superpatch-logo.svg" alt="Superpatch Logo"
+                                <img src="/assets/supersleep/superpatch-logo.svg" alt="Superpatch Logo"
                                     class="superpatch-logo img-fluid">
                             </a>
                         </div>
@@ -114,7 +114,7 @@ const supersleep = () => `
                     </span>
                 </div>
                 <div class="col-12 col-lg-6 d-flex align-items-center">
-                    <img src="./images/rem-pdp.png" alt="Man Sleeping" class="img-fluid">
+                    <img src="/assets/supersleep/rem-pdp.png" alt="Man Sleeping" class="img-fluid">
                 </div>
                 <div class="col-12 col-lg-6">
                     <h2 class="fw-bolder display-2 d-none d-lg-block mb-0">REM</h2>
@@ -405,16 +405,16 @@ const supersleep = () => `
             <!-- logos section -->
             <div class="logos-section row pb-lg-5">
                 <div class="col-lg-3 col-6 my-4 my-lg-0 d-flex justify-content-center">
-                    <img src="./images/drug-free.png" alt="Drug Free" class="img-fluid">
+                    <img src="/assets/supersleep/drug-free.png" alt="Drug Free" class="img-fluid">
                 </div>
                 <div class="col-lg-3 col-6 my-4 my-lg-0 d-flex justify-content-center">
-                    <img src="./images/clinical-trials.png" alt="Amazing Clinical Trial Results" class="img-fluid">
+                    <img src="/assets/supersleep/clinical-trials.png" alt="Amazing Clinical Trial Results" class="img-fluid">
                 </div>
                 <div class="col-lg-3 col-6 my-4 my-lg-0 d-flex justify-content-center">
-                    <img src="./images/incredible-benefits.png" alt="Incredible Benefits" class="img-fluid">
+                    <img src="/assets/supersleep/incredible-benefits.png" alt="Incredible Benefits" class="img-fluid">
                 </div>
                 <div class="col-lg-3 col-6 my-4 my-lg-0 d-flex justify-content-center">
-                    <img src="./images/made-in-usa.png" alt="Made In The USA" class="img-fluid">
+                    <img src="/assets/supersleep/made-in-usa.png" alt="Made In The USA" class="img-fluid">
                 </div>
             </div>
 
@@ -469,7 +469,7 @@ const supersleep = () => `
                 <div class="good-sleep row">
                     <div class="col-lg-6 col-md-12 light-gray-bg py-5 p-lg-5">
                         <h3 class="fw-bolder fs-4">Why Good Sleep is Essential</h3>
-                        <img src="./images/why-good-sleep-is-essential.png" alt="Why Good Sleep Is Essential"
+                        <img src="/assets/supersleep/why-good-sleep-is-essential.png" alt="Why Good Sleep Is Essential"
                             class="img-fluid mt-4 d-flex d-lg-none">
                         <h4 class="fw-bold fs-6 mt-4">Boosts Immunity</h4>
                         <p>Boosts Immunity: Quality sleep strengthens your immune system, helping you fight off
@@ -502,7 +502,7 @@ const supersleep = () => `
                     </div>
                     <div class="col-lg-6 col-md-12 py-5 p-lg-5">
                         <h3 class="fw-bolder fs-4">Why Choose REM Super Patch™?</h3>
-                        <img src="./images/mother-daughter.png" alt="Mother Daughter"
+                        <img src="/assets/supersleep/mother-daughter.png" alt="Mother Daughter"
                             class="img-fluid mt-4 d-flex d-lg-none">
                         <h4 class="fw-bold fs-6 mt-4">100% Drug-Free</h4>
                         <p>No ingredients, no melatonin, no CBD. Just pure, natural sleep enhancement.</p>
@@ -526,7 +526,7 @@ const supersleep = () => `
                 <div class="amazing-results row">
                     <div class="col-lg-6 col-md-12 light-gray-bg py-5 p-lg-5">
                         <h3 class="fw-bolder fs-4">Amazing Results with REM Super Patch™</h3>
-                        <img src="./images/amazing-results-with-rem-super-patch.png"
+                        <img src="/assets/supersleep/amazing-results-with-rem-super-patch.png"
                             alt="Amazing Results With REM Super Patch" class="img-fluid mt-4 d-flex d-lg-none">
                         <h4 class="fw-bold fs-6 mt-4">Fall Asleep Faster</h4>
                         <p>Spend less time tossing and turning and more time in restful slumber.</p>
@@ -551,7 +551,7 @@ const supersleep = () => `
                     </div>
                     <div class="info-text col-lg-6 col-md-12">
                         <h3 class="fw-bolder fs-4">Why Choose REM Super Patch™?</h3>
-                        <img src="./images/family.png" alt="Family" class="img-fluid mt-4 d-flex d-lg-none">
+                        <img src="/assets/supersleep/family.png" alt="Family" class="img-fluid mt-4 d-flex d-lg-none">
                         <p class="mt-3 mt-lg-0">For close to $2 a day, you can transform your sleep quality and
                             overall well-being. Don't miss out on the opportunity to experience the benefits
                             of the REM Super Patch™. Join the ranks of our satisfied customers and start enjoying
@@ -642,7 +642,7 @@ const supersleep = () => `
                     <div class="col-12">
                         <div class="owl-carousel owl-theme advisory-board">
                             <div class="item card-item light-gray-bg">
-                                <img src="./images/anna-toker.png" alt="Dr. Anna Toker" class="img-fluid">
+                                <img src="/assets/supersleep/anna-toker.png" alt="Dr. Anna Toker" class="img-fluid">
                                 <div class="row p-4">
                                     <div class="col-md-12 text-center">
                                         <h4 class="fs-5 fw-bolder">Dr. Anna Toker</h4>
@@ -661,7 +661,7 @@ const supersleep = () => `
                                 </div>
                             </div>
                             <div class="item card-item light-gray-bg">
-                                <img src="./images/alexander-schauss.png" alt="Alexander G. Schauss" class="img-fluid">
+                                <img src="/assets/supersleep/alexander-schauss.png" alt="Alexander G. Schauss" class="img-fluid">
                                 <div class="row p-4">
                                     <div class="col-md-12 text-center">
                                         <h4 class="fs-5 fw-bolder">Alexander G. Schauss,</h4>
@@ -682,7 +682,7 @@ const supersleep = () => `
                                 </div>
                             </div>
                             <div class="item card-item light-gray-bg">
-                                <img src="./images/marc-boff.png" alt="Dr. Marc H Boff" class="img-fluid">
+                                <img src="/assets/supersleep/marc-boff.png" alt="Dr. Marc H Boff" class="img-fluid">
                                 <div class="row p-4">
                                     <div class="col-md-12 text-center">
                                         <h4 class="fs-5 fw-bolder">Dr. Marc H Boff</h4>
@@ -712,7 +712,7 @@ const supersleep = () => `
                     </span>
                 </div>
                 <div class="col-12 col-lg-6">
-                    <img src="./images/rem-product.png" alt="REM Superpatch" class="rem-product img-fluid">
+                    <img src="/assets/supersleep/rem-product.png" alt="REM Superpatch" class="rem-product img-fluid">
                 </div>
                 <div class="col-12 col-lg-6">
                     <h2 class="fw-bolder display-2 d-none d-lg-block mb-0">REM</h2>
@@ -1013,16 +1013,16 @@ const supersleep = () => `
             <!-- logos section -->
             <div class="logos-section row py-lg-5">
                 <div class="col-lg-3 col-6 my-4 my-lg-0 d-flex justify-content-center">
-                    <img src="./images/drug-free.png" alt="Drug Free" class="img-fluid">
+                    <img src="/assets/supersleep/drug-free.png" alt="Drug Free" class="img-fluid">
                 </div>
                 <div class="col-lg-3 col-6 my-4 my-lg-0 d-flex justify-content-center">
-                    <img src="./images/clinical-trials.png" alt="Amazing Clinical Trial Results" class="img-fluid">
+                    <img src="/assets/supersleep/clinical-trials.png" alt="Amazing Clinical Trial Results" class="img-fluid">
                 </div>
                 <div class="col-lg-3 col-6 my-4 my-lg-0 d-flex justify-content-center">
-                    <img src="./images/incredible-benefits.png" alt="Incredible Benefits" class="img-fluid">
+                    <img src="/assets/supersleep/incredible-benefits.png" alt="Incredible Benefits" class="img-fluid">
                 </div>
                 <div class="col-lg-3 col-6 my-4 my-lg-0 d-flex justify-content-center">
-                    <img src="./images/made-in-usa.png" alt="Made In The USA" class="img-fluid">
+                    <img src="/assets/supersleep/made-in-usa.png" alt="Made In The USA" class="img-fluid">
                 </div>
             </div>
 
@@ -1031,7 +1031,7 @@ const supersleep = () => `
                 <div class="better-sleep-health row">
                     <div class="info-text light-gray-bg col-lg-6 col-md-12">
                         <h3 class="fw-bolder fs-4">Better Sleep, Better Health</h3>
-                        <img src="./images/couple-mobile.jpg" alt="Couple" class="img-fluid mt-4 d-flex d-lg-none">
+                        <img src="/assets/supersleep/couple-mobile.jpg" alt="Couple" class="img-fluid mt-4 d-flex d-lg-none">
                         <p class="mt-3 mt-lg-0">Everyone needs good sleep to stay healthy. Sleep helps our body
                             repair itself, makes our immune system stronger, and helps us remember stuff. Not enough
                             sleep can cause health issues like obesity and heart disease. We are here to help you sleep
@@ -1051,7 +1051,7 @@ const supersleep = () => `
                     </div>
                     <div class="info-text light-gray-bg col-lg-6 col-md-12">
                         <h3 class="fw-bolder fs-4">Transforming Sleep with Skin Signals</h3>
-                        <img src="./images/woman-vibrotactile-tech.png" alt="Woman Vibrotactile Technology"
+                        <img src="/assets/supersleep/woman-vibrotactile-tech.png" alt="Woman Vibrotactile Technology"
                             class="img-fluid mt-4 d-flex d-lg-none">
                         <p class="mt-3 mt-lg-0">Introducing our vibrotactile technology. There's nothing else like
                             it. This wearable tech sends signals from your skin to your brain. Is it possible? Yes! Your
@@ -1098,7 +1098,7 @@ const supersleep = () => `
                     </div>
                     <div class="info-text light-gray-bg col-lg-6 col-md-12">
                         <h3 class="fw-bolder fs-4">Transform Your Life</h3>
-                        <img src="./images/family-02.png" alt="Family" class="img-fluid mt-4 d-flex d-lg-none">
+                        <img src="/assets/supersleep/family-02.png" alt="Family" class="img-fluid mt-4 d-flex d-lg-none">
                         <p class="mt-3 mt-lg-0">Imagine getting a great night's sleep and having amazing energy all
                             day. Think about how much more you could enjoy life with your kids, grandkids, and spouse.
                             For just close to $2 a day, you can try the REM Patch and change your life. If it doesn't
@@ -1116,7 +1116,7 @@ const supersleep = () => `
                 <div class="no-risk row">
                     <div class="info-text col-lg-6 col-md-12">
                         <h3 class="fw-bolder fs-4">Try the REM Super Patch™ No Risk, All Reward</h3>
-                        <img src="./images/teammates.png" alt="Teammates" class="img-fluid mt-4 d-flex d-lg-none">
+                        <img src="/assets/supersleep/teammates.png" alt="Teammates" class="img-fluid mt-4 d-flex d-lg-none">
                         <p class="mt-3 mt-lg-0">Our "Super Patch Effect" is almost instant for most customers. Many
                             experience better sleep the first night they use the REM Super Patch. We're so sure
                             you'll love it that we offer a risk-free money-back guarantee. If it doesn't work for you,
@@ -1155,7 +1155,7 @@ const supersleep = () => `
                     </span>
                 </div>
                 <div class="col-12 col-lg-6">
-                    <img src="./images/rem-product.png" alt="REM Superpatch" class="rem-product img-fluid">
+                    <img src="/assets/supersleep/rem-product.png" alt="REM Superpatch" class="rem-product img-fluid">
                 </div>
                 <div class="col-12 col-lg-6">
                     <h2 class="fw-bolder display-2 d-none d-lg-block mb-0">REM</h2>
@@ -1444,16 +1444,16 @@ const supersleep = () => `
             <!-- logos section -->
             <div class="logos-section row pt-lg-5">
                 <div class="col-lg-3 col-6 my-4 my-lg-0 d-flex justify-content-center">
-                    <img src="./images/drug-free.png" alt="Drug Free" class="img-fluid">
+                    <img src="/assets/supersleep/drug-free.png" alt="Drug Free" class="img-fluid">
                 </div>
                 <div class="col-lg-3 col-6 my-4 my-lg-0 d-flex justify-content-center">
-                    <img src="./images/clinical-trials.png" alt="Amazing Clinical Trial Results" class="img-fluid">
+                    <img src="/assets/supersleep/clinical-trials.png" alt="Amazing Clinical Trial Results" class="img-fluid">
                 </div>
                 <div class="col-lg-3 col-6 my-4 my-lg-0 d-flex justify-content-center">
-                    <img src="./images/incredible-benefits.png" alt="Incredible Benefits" class="img-fluid">
+                    <img src="/assets/supersleep/incredible-benefits.png" alt="Incredible Benefits" class="img-fluid">
                 </div>
                 <div class="col-lg-3 col-6 my-4 my-lg-0 d-flex justify-content-center">
-                    <img src="./images/made-in-usa.png" alt="Made In The USA" class="img-fluid">
+                    <img src="/assets/supersleep/made-in-usa.png" alt="Made In The USA" class="img-fluid">
                 </div>
             </div>
 
@@ -1479,7 +1479,7 @@ const supersleep = () => `
                         <div class="col-md-4 mb-3">
                             <div class="how-it-works">
                                 <div class="row align-items-center">
-                                    <img src="./images/how-it-works-open-2.webp" alt="Superpatch" class="img-fluid">
+                                    <img src="/assets/supersleep/how-it-works-open-2.webp" alt="Superpatch" class="img-fluid">
                                     <p class="mt-3">Open your Super Patch Pack and take out one patch.</p>
                                 </div>
                             </div>
@@ -1487,7 +1487,7 @@ const supersleep = () => `
                         <div class="col-md-4 mb-3">
                             <div class="how-it-works">
                                 <div class="row align-items-center">
-                                    <img src="./images/how-it-works-peel-2.webp" alt="Superpatch" class="img-fluid">
+                                    <img src="/assets/supersleep/how-it-works-peel-2.webp" alt="Superpatch" class="img-fluid">
                                     <p class="mt-3">Carefully peel off the patch from its protective sheet.</p>
                                 </div>
                             </div>
@@ -1495,7 +1495,7 @@ const supersleep = () => `
                         <div class="col-md-4 mb-3">
                             <div class="how-it-works">
                                 <div class="row align-items-center">
-                                    <img src="./images/how-it-works-stick-2.webp" alt="Superpatch" class="img-fluid">
+                                    <img src="/assets/supersleep/how-it-works-stick-2.webp" alt="Superpatch" class="img-fluid">
                                     <p class="mt-3">Stick it on your forearm and start enjoying the benefits
                                         instantly!</p>
                                 </div>
@@ -1507,7 +1507,7 @@ const supersleep = () => `
                             <div class="item pt-5 px-5">
                                 <div class="how-it-works">
                                     <div class="row align-items-center">
-                                        <img src="./images/how-it-works-open-2.webp" alt="Superpatch" class="img-fluid">
+                                        <img src="/assets/supersleep/how-it-works-open-2.webp" alt="Superpatch" class="img-fluid">
                                         <p class="mt-3">Open your Super Patch Pack and take out one patch.</p>
                                     </div>
                                 </div>
@@ -1515,7 +1515,7 @@ const supersleep = () => `
                             <div class="item pt-5 px-5">
                                 <div class="how-it-works">
                                     <div class="row align-items-center">
-                                        <img src="./images/how-it-works-peel-2.webp" alt="Superpatch" class="img-fluid">
+                                        <img src="/assets/supersleep/how-it-works-peel-2.webp" alt="Superpatch" class="img-fluid">
                                         <p class="mt-3">Carefully peel off the patch from its protective sheet.</p>
                                     </div>
                                 </div>
@@ -1523,7 +1523,7 @@ const supersleep = () => `
                             <div class="item pt-5 px-5">
                                 <div class="how-it-works">
                                     <div class="row align-items-center">
-                                        <img src="./images/how-it-works-stick-2.webp" alt="Superpatch"
+                                        <img src="/assets/supersleep/how-it-works-stick-2.webp" alt="Superpatch"
                                             class="img-fluid">
                                         <p class="mt-3">Stick it on your forearm and start enjoying the benefits
                                             instantly!</p>
@@ -1641,7 +1641,7 @@ const supersleep = () => `
                     <div class="d-flex justify-content-center justify-content-lg-start">
                         <div class="text-center p-2 flex-shrink-1">
                             <a href="https://www.superpatch.com/" target="_blank">
-                                <img src="./images/superpatch-logo.svg" alt="Superpatch Logo"
+                                <img src="/assets/supersleep/superpatch-logo.svg" alt="Superpatch Logo"
                                     class="superpatch-logo img-fluid">
                             </a>
                             <div class="pt-4">
@@ -1687,7 +1687,7 @@ const supersleep = () => `
                     <nav class="row navbar bg-body-tertiary py-1">
                         <div class="col-lg-10 offset-lg-1 col-xl-8 offset-xl-2 py-2 text-center text-md-start">
                             <a class="navbar-brand" href="https://www.superpatch.com/" target="_blank">
-                                <img src="./images/superpatch-logo.svg" alt="Superpatch Logo"
+                                <img src="/assets/supersleep/superpatch-logo.svg" alt="Superpatch Logo"
                                     class="superpatch-logo img-fluid">
                             </a>
                         </div>
@@ -1734,20 +1734,20 @@ const supersleep = () => `
                     <div class="row">
                         <div
                             class="col-lg-3 col-6 my-4 d-flex align-items-center justify-content-center justify-content-lg-start">
-                            <img src="./images/drug-free-bnw.jpg" alt="Drug Free" class="img-fluid px-0">
+                            <img src="/assets/supersleep/drug-free-bnw.jpg" alt="Drug Free" class="img-fluid px-0">
                         </div>
                         <div
                             class="col-lg-3 col-6 my-4 d-flex align-items-center justify-content-center justify-content-lg-start">
-                            <img src="./images/fall-asleep-faster.jpg" alt="Fall Asleep Faster" class="img-fluid px-0">
+                            <img src="/assets/supersleep/fall-asleep-faster.jpg" alt="Fall Asleep Faster" class="img-fluid px-0">
                         </div>
                         <div
                             class="col-lg-3 col-6 my-4 d-flex align-items-center justify-content-center justify-content-lg-start">
-                            <img src="./images/wake-up-less-at-night.jpg" alt="Wake Up Less At Night"
+                            <img src="/assets/supersleep/wake-up-less-at-night.jpg" alt="Wake Up Less At Night"
                                 class="img-fluid px-0">
                         </div>
                         <div
                             class="col-lg-3 col-6 my-4 d-flex align-items-center justify-content-center justify-content-lg-start">
-                            <img src="./images/wake-up-refreshed.jpg" alt="Wake Up Refreshed" class="img-fluid px-0">
+                            <img src="/assets/supersleep/wake-up-refreshed.jpg" alt="Wake Up Refreshed" class="img-fluid px-0">
                         </div>
                     </div>
                 </div>
@@ -1808,7 +1808,7 @@ const supersleep = () => `
                 <div class="col-lg-10 offset-lg-1 col-xl-8 offset-xl-2">
                     <div class="row choose-rem-patch">
                         <div class="col-12 col-lg-6 d-flex align-items-center">
-                            <img src="./images/Sleep_patch_02.jpg" alt="Why Choose REM Super Patch" class="img-fluid">
+                            <img src="/assets/supersleep/Sleep_patch_02.jpg" alt="Why Choose REM Super Patch" class="img-fluid">
                         </div>
                         <div class="col-lg-6 col-md-12 py-5 p-lg-5">
                             <h3 class="fw-bolder fs-4 mt-3 mt-lg-0">Why Choose REM Super Patch™?</h3>
@@ -1983,7 +1983,7 @@ const supersleep = () => `
                 <div class="col-lg-10 offset-lg-1 col-xl-8 offset-xl-2">
                     <div class="row">
                         <div class="col-12 col-lg-6 d-flex align-items-center">
-                            <img src="./images/Sleep_patch_package_01.jpg" alt="Sleep Patch Package" class="img-fluid">
+                            <img src="/assets/supersleep/Sleep_patch_package_01.jpg" alt="Sleep Patch Package" class="img-fluid">
                         </div>
                         <div class="col-12 col-lg-6 py-5 p-lg-5">
                             <div class="d-flex d-lg-none">
@@ -2309,7 +2309,7 @@ const supersleep = () => `
                     <div class="col-lg-10 offset-lg-1 col-xl-8 offset-xl-2">
                         <div class="row">
                             <div class="col-md-4 rem-patch-bg">
-                                <img src="./images/rem-patch-peel.png" alt="REM" class="img-fluid">
+                                <img src="/assets/supersleep/rem-patch-peel.png" alt="REM" class="img-fluid">
                             </div>
                             <div class="col-md-8">
                                 <div class="row">
@@ -2321,7 +2321,7 @@ const supersleep = () => `
                                     <div class="col-md-4">
                                         <div class="how-it-works">
                                             <div class="row align-items-center justify-content-center">
-                                                <img src="./images/how-it-works-open-2.webp" alt="Superpatch"
+                                                <img src="/assets/supersleep/how-it-works-open-2.webp" alt="Superpatch"
                                                     class="img-fluid">
                                                 <p class="mt-3">Open your Super Patch Pack and take out one patch.</p>
                                             </div>
@@ -2330,7 +2330,7 @@ const supersleep = () => `
                                     <div class="col-md-4">
                                         <div class="how-it-works">
                                             <div class="row align-items-center justify-content-center">
-                                                <img src="./images/how-it-works-peel-2.webp" alt="Superpatch"
+                                                <img src="/assets/supersleep/how-it-works-peel-2.webp" alt="Superpatch"
                                                     class="img-fluid">
                                                 <p class="mt-3">Carefully peel off the patch from its protective sheet.
                                                 </p>
@@ -2340,7 +2340,7 @@ const supersleep = () => `
                                     <div class="col-md-4">
                                         <div class="how-it-works">
                                             <div class="row align-items-center justify-content-center">
-                                                <img src="./images/how-it-works-stick-2.webp" alt="Superpatch"
+                                                <img src="/assets/supersleep/how-it-works-stick-2.webp" alt="Superpatch"
                                                     class="img-fluid">
                                                 <p class="mt-3">Stick it on your forearm and start enjoying the benefits
                                                     instantly!</p>
@@ -2359,7 +2359,7 @@ const supersleep = () => `
                             <div class="item mb-2">
                                 <div class="how-it-works">
                                     <div class="row align-items-center">
-                                        <img src="./images/how-it-works-open-2.webp" alt="Superpatch"
+                                        <img src="/assets/supersleep/how-it-works-open-2.webp" alt="Superpatch"
                                             class="img-fluid col-6">
                                         <p class="col-6 fs-4 mb-0">Open your Super Patch Pack and take out one
                                             patch.
@@ -2370,7 +2370,7 @@ const supersleep = () => `
                             <div class="item my-2">
                                 <div class="how-it-works">
                                     <div class="row align-items-center">
-                                        <img src="./images/how-it-works-peel-2.webp" alt="Superpatch"
+                                        <img src="/assets/supersleep/how-it-works-peel-2.webp" alt="Superpatch"
                                             class="img-fluid col-6">
                                         <p class="col-6 fs-4 mb-0">Carefully peel off the patch from its protective
                                             sheet.</p>
@@ -2380,7 +2380,7 @@ const supersleep = () => `
                             <div class="item my-2">
                                 <div class="how-it-works">
                                     <div class="row align-items-center">
-                                        <img src="./images/how-it-works-stick-2.webp" alt="Superpatch"
+                                        <img src="/assets/supersleep/how-it-works-stick-2.webp" alt="Superpatch"
                                             class="img-fluid col-6">
                                         <p class="col-6 fs-4 mb-0">Stick it on your forearm and start enjoying the
                                             benefits instantly!</p>
@@ -2409,7 +2409,7 @@ const supersleep = () => `
                             <div class="col-12 mt-4">
                                 <div class="owl-carousel owl-theme advisory-board">
                                     <div class="item card-item light-gray-bg">
-                                        <img src="./images/anna-toker.png" alt="Dr. Anna Toker" class="img-fluid">
+                                        <img src="/assets/supersleep/anna-toker.png" alt="Dr. Anna Toker" class="img-fluid">
                                         <div class="row p-4">
                                             <div class="col-md-12 text-center">
                                                 <h4 class="fs-5 fw-bolder">Dr. Anna Toker</h4>
@@ -2429,7 +2429,7 @@ const supersleep = () => `
                                         </div>
                                     </div>
                                     <div class="item card-item light-gray-bg">
-                                        <img src="./images/alexander-schauss.png" alt="Alexander G. Schauss"
+                                        <img src="/assets/supersleep/alexander-schauss.png" alt="Alexander G. Schauss"
                                             class="img-fluid">
                                         <div class="row p-4">
                                             <div class="col-md-12 text-center">
@@ -2452,7 +2452,7 @@ const supersleep = () => `
                                         </div>
                                     </div>
                                     <div class="item card-item light-gray-bg">
-                                        <img src="./images/marc-boff.png" alt="Dr. Marc H Boff" class="img-fluid">
+                                        <img src="/assets/supersleep/marc-boff.png" alt="Dr. Marc H Boff" class="img-fluid">
                                         <div class="row p-4">
                                             <div class="col-md-12 text-center">
                                                 <h4 class="fs-5 fw-bolder">Dr. Marc H Boff</h4>
@@ -2488,7 +2488,7 @@ const supersleep = () => `
                                 <div class="d-flex justify-content-center justify-content-lg-start">
                                     <div class="text-center py-2 flex-shrink-1">
                                         <a href="https://www.superpatch.com/" target="_blank">
-                                            <img src="./images/superpatch-logo.svg" alt="Superpatch Logo"
+                                            <img src="/assets/supersleep/superpatch-logo.svg" alt="Superpatch Logo"
                                                 class="superpatch-logo img-fluid">
                                         </a>
                                         <div class="pt-4">
