@@ -1,6 +1,0 @@
-name = "broad-bonus-b6c5"
-main = "src/index.js"
-compatibility_date = "2024-10-01"
-
-[site]
-bucket = "./assets"
