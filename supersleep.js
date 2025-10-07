@@ -1,4 +1,4 @@
-const template = () => `
+const supersleep = () => `
 <!DOCTYPE html>
 
 <html lang="en">
@@ -2841,4 +2841,4 @@ const template = () => `
 
 </html>`;
 
-export default template;
+export default supersleep;
