@@ -10,7 +10,9 @@
 	"observability": {
 		"enabled": true
 	},
-	"assets": { "directory": "./assets", "binding": "ASSETS" }
+	"assets": { "directory": "./assets", "binding": "ASSETS" },
+	"cssAssets": { "directory": "./css", "binding": "CSS" }
+
 	/**
 	 * Smart Placement
 	 * Docs: https://developers.cloudflare.com/workers/configuration/smart-placement/#smart-placement
