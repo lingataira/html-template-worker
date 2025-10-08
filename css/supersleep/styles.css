@@ -28,7 +28,7 @@ body {
 	z-index: 2;
 }
 
-.banner {
+/* .banner {
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -37,7 +37,7 @@ body {
 	background: url(/assets/supersleep/images/rem-hero-banner.png) no-repeat center center;
 	background-size: cover !important;
 	z-index: 1;
-}
+} */
 
 .header .superpatch-logo {
 	max-width: 50%;
