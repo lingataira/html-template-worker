@@ -41,7 +41,7 @@ const supersleep = () => `
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
     <link rel="stylesheet" href="/assets/supersleep/css/owl.carousel.min.css">
     <link rel="stylesheet" href="/assets/supersleep/css/owl.theme.default.min.css">
-    <link href="/assets/supersleep/css/styles.css?v=2" rel="stylesheet">
+    <link href="/assets/supersleep/css/styles.css?v=3" rel="stylesheet">
 </head>
 
 <body data-variant="43991132668094" data-product="8073276784830" data-max-quantity="10" data-id="SPREMPK28UB"
